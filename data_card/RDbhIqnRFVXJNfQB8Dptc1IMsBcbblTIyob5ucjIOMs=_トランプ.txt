@@ -1,5 +1,5 @@
 {
-    "parent": "",
+    "imageSet": "/card-master/data_imageset/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_トランプ.txt",
     "elems": [
         {
             "name": "マーク",
@@ -8,6 +8,10 @@
         {
             "name": "数字",
             "kindStr": "Value"
+        },
+        {
+            "name": "色",
+            "kindStr": "Text"
         }
     ],
     "cards": [
@@ -25,6 +29,12 @@
                     "image": "",
                     "text": "",
                     "value": 1
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -42,6 +52,12 @@
                     "image": "",
                     "text": "",
                     "value": 2
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -59,6 +75,12 @@
                     "image": "",
                     "text": "",
                     "value": 3
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -76,6 +98,12 @@
                     "image": "",
                     "text": "",
                     "value": 4
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -93,6 +121,12 @@
                     "image": "",
                     "text": "",
                     "value": 5
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -110,6 +144,12 @@
                     "image": "",
                     "text": "",
                     "value": 6
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -127,6 +167,12 @@
                     "image": "",
                     "text": "",
                     "value": 7
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -144,6 +190,12 @@
                     "image": "",
                     "text": "",
                     "value": 8
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -161,6 +213,12 @@
                     "image": "",
                     "text": "",
                     "value": 9
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -178,6 +236,12 @@
                     "image": "",
                     "text": "",
                     "value": 10
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -195,6 +259,12 @@
                     "image": "",
                     "text": "",
                     "value": 11
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -212,6 +282,12 @@
                     "image": "",
                     "text": "",
                     "value": 12
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -229,6 +305,12 @@
                     "image": "",
                     "text": "",
                     "value": 13
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -246,6 +328,12 @@
                     "image": "",
                     "text": "",
                     "value": 1
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -263,6 +351,12 @@
                     "image": "",
                     "text": "",
                     "value": 2
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -280,6 +374,12 @@
                     "image": "",
                     "text": "",
                     "value": 3
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -297,6 +397,12 @@
                     "image": "",
                     "text": "",
                     "value": 4
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -314,6 +420,12 @@
                     "image": "",
                     "text": "",
                     "value": 5
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -331,6 +443,12 @@
                     "image": "",
                     "text": "",
                     "value": 6
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -348,6 +466,12 @@
                     "image": "",
                     "text": "",
                     "value": 7
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -365,6 +489,12 @@
                     "image": "",
                     "text": "",
                     "value": 8
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -382,6 +512,12 @@
                     "image": "",
                     "text": "",
                     "value": 9
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -399,6 +535,12 @@
                     "image": "",
                     "text": "",
                     "value": 10
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -416,6 +558,12 @@
                     "image": "",
                     "text": "",
                     "value": 11
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -433,6 +581,12 @@
                     "image": "",
                     "text": "",
                     "value": 12
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -450,6 +604,12 @@
                     "image": "",
                     "text": "",
                     "value": 13
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -467,6 +627,12 @@
                     "image": "",
                     "text": "",
                     "value": 1
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -484,6 +650,12 @@
                     "image": "",
                     "text": "",
                     "value": 2
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -501,6 +673,12 @@
                     "image": "",
                     "text": "",
                     "value": 3
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -518,6 +696,12 @@
                     "image": "",
                     "text": "",
                     "value": 4
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -535,6 +719,12 @@
                     "image": "",
                     "text": "",
                     "value": 5
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -552,6 +742,12 @@
                     "image": "",
                     "text": "",
                     "value": 6
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -569,6 +765,12 @@
                     "image": "",
                     "text": "",
                     "value": 7
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -586,6 +788,12 @@
                     "image": "",
                     "text": "",
                     "value": 8
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -603,6 +811,12 @@
                     "image": "",
                     "text": "",
                     "value": 9
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -620,6 +834,12 @@
                     "image": "",
                     "text": "",
                     "value": 10
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -637,6 +857,12 @@
                     "image": "",
                     "text": "",
                     "value": 11
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -654,6 +880,12 @@
                     "image": "",
                     "text": "",
                     "value": 12
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -671,6 +903,12 @@
                     "image": "",
                     "text": "",
                     "value": 13
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "赤",
+                    "value": 0
                 }
             ]
         },
@@ -688,6 +926,12 @@
                     "image": "",
                     "text": "",
                     "value": 1
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -705,6 +949,12 @@
                     "image": "",
                     "text": "",
                     "value": 2
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -722,6 +972,12 @@
                     "image": "",
                     "text": "",
                     "value": 3
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -739,6 +995,12 @@
                     "image": "",
                     "text": "",
                     "value": 4
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -756,6 +1018,12 @@
                     "image": "",
                     "text": "",
                     "value": 5
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -773,6 +1041,12 @@
                     "image": "",
                     "text": "",
                     "value": 6
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -790,6 +1064,12 @@
                     "image": "",
                     "text": "",
                     "value": 7
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -807,6 +1087,12 @@
                     "image": "",
                     "text": "",
                     "value": 8
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -824,6 +1110,12 @@
                     "image": "",
                     "text": "",
                     "value": 9
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -841,6 +1133,12 @@
                     "image": "",
                     "text": "",
                     "value": 10
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -858,6 +1156,12 @@
                     "image": "",
                     "text": "",
                     "value": 11
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -875,6 +1179,12 @@
                     "image": "",
                     "text": "",
                     "value": 12
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         },
@@ -892,6 +1202,12 @@
                     "image": "",
                     "text": "",
                     "value": 13
+                },
+                {
+                    "element": "色",
+                    "image": "",
+                    "text": "黒",
+                    "value": 0
                 }
             ]
         }
