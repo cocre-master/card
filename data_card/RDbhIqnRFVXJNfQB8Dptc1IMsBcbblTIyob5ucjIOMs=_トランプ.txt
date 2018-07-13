@@ -3,7 +3,7 @@
     "elems": [
         {
             "name": "マーク",
-            "kindStr": "Image"
+            "kindStr": "Text"
         },
         {
             "name": "数字",
@@ -20,19 +20,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mc.png",
-                    "text": "",
+                    "text": "クラブ",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 1
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -43,19 +40,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mc.png",
-                    "text": "",
+                    "text": "クラブ",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 2
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -66,19 +60,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mc.png",
-                    "text": "",
+                    "text": "クラブ",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 3
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -89,19 +80,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mc.png",
-                    "text": "",
+                    "text": "クラブ",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 4
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -112,19 +100,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mc.png",
-                    "text": "",
+                    "text": "クラブ",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 5
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -135,19 +120,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mc.png",
-                    "text": "",
+                    "text": "クラブ",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 6
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -158,19 +140,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mc.png",
-                    "text": "",
+                    "text": "クラブ",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 7
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -181,19 +160,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mc.png",
-                    "text": "",
+                    "text": "クラブ",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 8
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -204,19 +180,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mc.png",
-                    "text": "",
+                    "text": "クラブ",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 9
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -227,19 +200,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mc.png",
-                    "text": "",
+                    "text": "クラブ",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 10
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -250,19 +220,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mc.png",
-                    "text": "",
+                    "text": "クラブ",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 11
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -273,19 +240,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mc.png",
-                    "text": "",
+                    "text": "クラブ",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 12
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -296,19 +260,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mc.png",
-                    "text": "",
+                    "text": "クラブ",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 13
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -319,19 +280,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_md.png",
-                    "text": "",
+                    "text": "ダイア",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 1
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -342,19 +300,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_md.png",
-                    "text": "",
+                    "text": "ダイア",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 2
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -365,19 +320,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_md.png",
-                    "text": "",
+                    "text": "ダイア",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 3
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -388,19 +340,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_md.png",
-                    "text": "",
+                    "text": "ダイア",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 4
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -411,19 +360,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_md.png",
-                    "text": "",
+                    "text": "ダイア",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 5
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -434,19 +380,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_md.png",
-                    "text": "",
+                    "text": "ダイア",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 6
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -457,19 +400,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_md.png",
-                    "text": "",
+                    "text": "ダイア",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 7
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -480,19 +420,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_md.png",
-                    "text": "",
+                    "text": "ダイア",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 8
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -503,19 +440,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_md.png",
-                    "text": "",
+                    "text": "ダイア",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 9
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -526,19 +460,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_md.png",
-                    "text": "",
+                    "text": "ダイア",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 10
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -549,19 +480,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_md.png",
-                    "text": "",
+                    "text": "ダイア",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 11
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -572,19 +500,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_md.png",
-                    "text": "",
+                    "text": "ダイア",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 12
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -595,19 +520,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_md.png",
-                    "text": "",
+                    "text": "ダイア",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 13
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -618,19 +540,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mh.png",
-                    "text": "",
+                    "text": "ハート",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 1
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -641,19 +560,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mh.png",
-                    "text": "",
+                    "text": "ハート",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 2
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -664,19 +580,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mh.png",
-                    "text": "",
+                    "text": "ハート",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 3
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -687,19 +600,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mh.png",
-                    "text": "",
+                    "text": "ハート",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 4
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -710,19 +620,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mh.png",
-                    "text": "",
+                    "text": "ハート",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 5
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -733,19 +640,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mh.png",
-                    "text": "",
+                    "text": "ハート",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 6
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -756,19 +660,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mh.png",
-                    "text": "",
+                    "text": "ハート",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 7
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -779,19 +680,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mh.png",
-                    "text": "",
+                    "text": "ハート",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 8
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -802,19 +700,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mh.png",
-                    "text": "",
+                    "text": "ハート",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 9
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -825,19 +720,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mh.png",
-                    "text": "",
+                    "text": "ハート",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 10
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -848,19 +740,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mh.png",
-                    "text": "",
+                    "text": "ハート",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 11
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -871,19 +760,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mh.png",
-                    "text": "",
+                    "text": "ハート",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 12
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -894,19 +780,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_mh.png",
-                    "text": "",
+                    "text": "ハート",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 13
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "赤",
                     "value": 0
                 }
@@ -917,19 +800,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_ms.png",
-                    "text": "",
+                    "text": "スペード",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 1
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -940,19 +820,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_ms.png",
-                    "text": "",
+                    "text": "スペード",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 2
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -963,19 +840,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_ms.png",
-                    "text": "",
+                    "text": "スペード",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 3
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -986,19 +860,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_ms.png",
-                    "text": "",
+                    "text": "スペード",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 4
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -1009,19 +880,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_ms.png",
-                    "text": "",
+                    "text": "スペード",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 5
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -1032,19 +900,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_ms.png",
-                    "text": "",
+                    "text": "スペード",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 6
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -1055,19 +920,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_ms.png",
-                    "text": "",
+                    "text": "スペード",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 7
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -1078,19 +940,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_ms.png",
-                    "text": "",
+                    "text": "スペード",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 8
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -1101,19 +960,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_ms.png",
-                    "text": "",
+                    "text": "スペード",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 9
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -1124,19 +980,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_ms.png",
-                    "text": "",
+                    "text": "スペード",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 10
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -1147,19 +1000,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_ms.png",
-                    "text": "",
+                    "text": "スペード",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 11
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -1170,19 +1020,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_ms.png",
-                    "text": "",
+                    "text": "スペード",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 12
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
@@ -1193,19 +1040,16 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "image": "/card-master/image_mark/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_ms.png",
-                    "text": "",
+                    "text": "スペード",
                     "value": 0
                 },
                 {
                     "element": "数字",
-                    "image": "",
                     "text": "",
                     "value": 13
                 },
                 {
                     "element": "色",
-                    "image": "",
                     "text": "黒",
                     "value": 0
                 }
