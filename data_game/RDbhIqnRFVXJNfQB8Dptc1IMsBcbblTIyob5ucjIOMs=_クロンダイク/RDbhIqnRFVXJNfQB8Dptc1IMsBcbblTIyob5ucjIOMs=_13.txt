@@ -1,6 +1,0 @@
-{
-    "signature": "xYNHQprD3xPCKdNCNpuNV0bDU0Cu+8jEmomtJeqRuro=",
-    "time": 300,
-    "count": -1,
-    "redo": -1
-}
