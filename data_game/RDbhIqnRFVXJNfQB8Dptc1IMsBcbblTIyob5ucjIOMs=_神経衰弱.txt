@@ -1,0 +1,1898 @@
+{
+    "version": 0,
+    "revision": 4,
+    "signature": "BKj3kEOA8+Op1ueIC309FLD5O2Ifi6VRXoTRFmALmic=",
+    "cleared": false,
+    "card": "/card-master/data_card/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_トランプ.txt",
+    "positions": [
+        {
+            "name": "場札",
+            "x": -320,
+            "y": 540,
+            "dx": 640,
+            "dy": -1040,
+            "overlaid": false,
+            "autoAlign": false,
+            "width": 7,
+            "height": 0
+        },
+        {
+            "name": "捨札",
+            "x": 320,
+            "y": -500,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 0,
+            "height": 0
+        }
+    ],
+    "symbols": [],
+    "rule": {
+        "images": [],
+        "successes": [
+            {
+                "conds": [
+                    {
+                        "kind": "Place",
+                        "kindSelIndex": -1,
+                        "cardId": 9,
+                        "symbol": "",
+                        "symbolCond": "Equal",
+                        "symbolValue": 0,
+                        "area": {
+                            "area": "場札",
+                            "index": 0
+                        },
+                        "areaCond": "Equal",
+                        "areaValue": 0
+                    }
+                ]
+            }
+        ],
+        "fails": [],
+        "startId": 0,
+        "selectId": 1,
+        "items": [
+            {
+                "id": 0,
+                "items": [
+                    {
+                        "kind": "Card",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumber": 1,
+                        "selMax": false,
+                        "selFlip": false,
+                        "selCardId": 12,
+                        "cardId": 10,
+                        "places": {
+                            "places": [
+                                {
+                                    "kind": "Area",
+                                    "area": {
+                                        "area": "場札",
+                                        "index": 0
+                                    },
+                                    "areaPosition": "Top",
+                                    "cardId": 13,
+                                    "cardPosition": "Front"
+                                }
+                            ]
+                        },
+                        "symbol": "",
+                        "symbolType": "Fix",
+                        "symbolValue": 0,
+                        "flip": "Front",
+                        "flipCardId": 11,
+                        "waitTime": 1,
+                        "childId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "items": [
+                    {
+                        "kind": "Flip",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumber": 1,
+                        "selMax": false,
+                        "selFlip": false,
+                        "selCardId": 40,
+                        "cardId": 38,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "",
+                        "symbolType": "Fix",
+                        "symbolValue": 0,
+                        "flip": "Back",
+                        "flipCardId": 39,
+                        "waitTime": 1,
+                        "childId": 10
+                    },
+                    {
+                        "kind": "Select",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumber": 1,
+                        "selMax": false,
+                        "selFlip": true,
+                        "selCardId": 16,
+                        "cardId": 14,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "",
+                        "symbolType": "Fix",
+                        "symbolValue": 0,
+                        "flip": "Front",
+                        "flipCardId": 15,
+                        "waitTime": 1,
+                        "childId": 3
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "items": []
+            },
+            {
+                "id": 3,
+                "items": [
+                    {
+                        "kind": "Select",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumber": 1,
+                        "selMax": false,
+                        "selFlip": true,
+                        "selCardId": 23,
+                        "cardId": 21,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "",
+                        "symbolType": "Fix",
+                        "symbolValue": 0,
+                        "flip": "Front",
+                        "flipCardId": 22,
+                        "waitTime": 1,
+                        "childId": 5
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "items": []
+            },
+            {
+                "id": 5,
+                "items": [
+                    {
+                        "kind": "Condition",
+                        "conds": {
+                            "conds": [
+                                {
+                                    "kind": "Select",
+                                    "kindSelIndex": 1,
+                                    "cardId": 27,
+                                    "symbol": "",
+                                    "symbolCond": "Equal",
+                                    "symbolValue": 0,
+                                    "area": {
+                                        "area": "場札",
+                                        "index": 0
+                                    },
+                                    "areaCond": "Equal",
+                                    "areaValue": 0
+                                }
+                            ]
+                        },
+                        "selNumber": 1,
+                        "selMax": false,
+                        "selFlip": false,
+                        "selCardId": 26,
+                        "cardId": 24,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "",
+                        "symbolType": "Fix",
+                        "symbolValue": 0,
+                        "flip": "Front",
+                        "flipCardId": 25,
+                        "waitTime": 1,
+                        "childId": 6
+                    },
+                    {
+                        "kind": "Condition",
+                        "conds": {
+                            "conds": [
+                                {
+                                    "kind": "Else",
+                                    "kindSelIndex": -1,
+                                    "cardId": 31,
+                                    "symbol": "",
+                                    "symbolCond": "Equal",
+                                    "symbolValue": 0,
+                                    "area": {
+                                        "area": "",
+                                        "index": 0
+                                    },
+                                    "areaCond": "Equal",
+                                    "areaValue": 0
+                                }
+                            ]
+                        },
+                        "selNumber": 1,
+                        "selMax": false,
+                        "selFlip": false,
+                        "selCardId": 30,
+                        "cardId": 28,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "",
+                        "symbolType": "Fix",
+                        "symbolValue": 0,
+                        "flip": "Front",
+                        "flipCardId": 29,
+                        "waitTime": 1,
+                        "childId": 7
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "items": [
+                    {
+                        "kind": "Card",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumber": 1,
+                        "selMax": false,
+                        "selFlip": false,
+                        "selCardId": 34,
+                        "cardId": 32,
+                        "places": {
+                            "places": [
+                                {
+                                    "kind": "Area",
+                                    "area": {
+                                        "area": "捨札",
+                                        "index": 0
+                                    },
+                                    "areaPosition": "Top",
+                                    "cardId": 35,
+                                    "cardPosition": "Front"
+                                }
+                            ]
+                        },
+                        "symbol": "",
+                        "symbolType": "Fix",
+                        "symbolValue": 0,
+                        "flip": "Front",
+                        "flipCardId": 33,
+                        "waitTime": 1,
+                        "childId": 8
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "items": [
+                    {
+                        "kind": "Wait",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumber": 1,
+                        "selMax": false,
+                        "selFlip": false,
+                        "selCardId": 43,
+                        "cardId": 41,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "",
+                        "symbolType": "Fix",
+                        "symbolValue": 0,
+                        "flip": "Front",
+                        "flipCardId": 42,
+                        "waitTime": 1,
+                        "childId": 11
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "items": []
+            },
+            {
+                "id": 9,
+                "items": []
+            },
+            {
+                "id": 10,
+                "items": []
+            },
+            {
+                "id": 11,
+                "items": []
+            }
+        ],
+        "itemIndexNow": 12,
+        "cards": [
+            {
+                "id": 0,
+                "card": [
+                    {
+                        "index": 0,
+                        "range": {
+                            "kind": "All",
+                            "area": {
+                                "area": "",
+                                "index": 0
+                            },
+                            "sel": false,
+                            "selKind": "All",
+                            "selKindIndex": 0
+                        },
+                        "areaCond": "None",
+                        "selectType": "Random",
+                        "number": 0,
+                        "sequence": {
+                            "dir": "Top",
+                            "element": "",
+                            "value": 1,
+                            "addElems": []
+                        },
+                        "conds": {
+                            "conds": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "card": []
+            },
+            {
+                "id": 2,
+                "card": []
+            },
+            {
+                "id": 3,
+                "card": [
+                    {
+                        "index": 0,
+                        "range": {
+                            "kind": "Position",
+                            "area": {
+                                "area": "場札",
+                                "index": 0
+                            },
+                            "sel": false,
+                            "selKind": "All",
+                            "selKindIndex": 0
+                        },
+                        "areaCond": "None",
+                        "selectType": "None",
+                        "number": 0,
+                        "sequence": {
+                            "dir": "Top",
+                            "element": "",
+                            "value": 1,
+                            "addElems": []
+                        },
+                        "conds": {
+                            "conds": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "card": []
+            },
+            {
+                "id": 5,
+                "card": [
+                    {
+                        "index": 0,
+                        "range": {
+                            "kind": "Position",
+                            "area": {
+                                "area": "場札",
+                                "index": 0
+                            },
+                            "sel": false,
+                            "selKind": "All",
+                            "selKindIndex": 0
+                        },
+                        "areaCond": "None",
+                        "selectType": "None",
+                        "number": 0,
+                        "sequence": {
+                            "dir": "Top",
+                            "element": "",
+                            "value": 1,
+                            "addElems": []
+                        },
+                        "conds": {
+                            "conds": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "card": [
+                    {
+                        "index": 0,
+                        "range": {
+                            "kind": "SelCard",
+                            "area": {
+                                "area": "",
+                                "index": 0
+                            },
+                            "sel": false,
+                            "selKind": "All",
+                            "selKindIndex": 0
+                        },
+                        "areaCond": "None",
+                        "selectType": "None",
+                        "number": 0,
+                        "sequence": {
+                            "dir": "Top",
+                            "element": "",
+                            "value": 1,
+                            "addElems": []
+                        },
+                        "conds": {
+                            "conds": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "card": []
+            },
+            {
+                "id": 8,
+                "card": []
+            },
+            {
+                "id": 9,
+                "card": []
+            },
+            {
+                "id": 10,
+                "card": [
+                    {
+                        "index": 0,
+                        "range": {
+                            "kind": "All",
+                            "area": {
+                                "area": "",
+                                "index": 0
+                            },
+                            "sel": false,
+                            "selKind": "All",
+                            "selKindIndex": 0
+                        },
+                        "areaCond": "None",
+                        "selectType": "Random",
+                        "number": 0,
+                        "sequence": {
+                            "dir": "Top",
+                            "element": "",
+                            "value": 1,
+                            "addElems": []
+                        },
+                        "conds": {
+                            "conds": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "card": []
+            },
+            {
+                "id": 12,
+                "card": []
+            },
+            {
+                "id": 13,
+                "card": []
+            },
+            {
+                "id": 14,
+                "card": []
+            },
+            {
+                "id": 15,
+                "card": []
+            },
+            {
+                "id": 16,
+                "card": [
+                    {
+                        "index": 0,
+                        "range": {
+                            "kind": "Position",
+                            "area": {
+                                "area": "場札",
+                                "index": 0
+                            },
+                            "sel": false,
+                            "selKind": "All",
+                            "selKindIndex": 0
+                        },
+                        "areaCond": "None",
+                        "selectType": "None",
+                        "number": 0,
+                        "sequence": {
+                            "dir": "Top",
+                            "element": "",
+                            "value": 1,
+                            "addElems": []
+                        },
+                        "conds": {
+                            "conds": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "card": [
+                    {
+                        "index": 0,
+                        "range": {
+                            "kind": "Select",
+                            "area": {
+                                "area": "",
+                                "index": 0
+                            },
+                            "sel": false,
+                            "selKind": "All",
+                            "selKindIndex": 0
+                        },
+                        "areaCond": "None",
+                        "selectType": "None",
+                        "number": 0,
+                        "sequence": {
+                            "dir": "Top",
+                            "element": "",
+                            "value": 1,
+                            "addElems": []
+                        },
+                        "conds": {
+                            "conds": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "card": []
+            },
+            {
+                "id": 19,
+                "card": []
+            },
+            {
+                "id": 20,
+                "card": []
+            },
+            {
+                "id": 21,
+                "card": []
+            },
+            {
+                "id": 22,
+                "card": []
+            },
+            {
+                "id": 23,
+                "card": [
+                    {
+                        "index": 0,
+                        "range": {
+                            "kind": "Position",
+                            "area": {
+                                "area": "場札",
+                                "index": 0
+                            },
+                            "sel": false,
+                            "selKind": "All",
+                            "selKindIndex": 0
+                        },
+                        "areaCond": "None",
+                        "selectType": "None",
+                        "number": 0,
+                        "sequence": {
+                            "dir": "Top",
+                            "element": "",
+                            "value": 1,
+                            "addElems": []
+                        },
+                        "conds": {
+                            "conds": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 24,
+                "card": []
+            },
+            {
+                "id": 25,
+                "card": []
+            },
+            {
+                "id": 26,
+                "card": []
+            },
+            {
+                "id": 27,
+                "card": [
+                    {
+                        "index": 0,
+                        "range": {
+                            "kind": "All",
+                            "area": {
+                                "area": "",
+                                "index": 0
+                            },
+                            "sel": false,
+                            "selKind": "All",
+                            "selKindIndex": 0
+                        },
+                        "areaCond": "None",
+                        "selectType": "None",
+                        "number": 0,
+                        "sequence": {
+                            "dir": "Top",
+                            "element": "",
+                            "value": 1,
+                            "addElems": []
+                        },
+                        "conds": {
+                            "conds": [
+                                {
+                                    "items": [
+                                        {
+                                            "kind": "SelectElem",
+                                            "element": "数字",
+                                            "kindSelIndex": 0,
+                                            "condition": "Equal",
+                                            "value": 0,
+                                            "elemValue": "1"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "card": []
+            },
+            {
+                "id": 29,
+                "card": []
+            },
+            {
+                "id": 30,
+                "card": []
+            },
+            {
+                "id": 31,
+                "card": []
+            },
+            {
+                "id": 32,
+                "card": [
+                    {
+                        "index": 0,
+                        "range": {
+                            "kind": "Select",
+                            "area": {
+                                "area": "",
+                                "index": 0
+                            },
+                            "sel": false,
+                            "selKind": "All",
+                            "selKindIndex": 2
+                        },
+                        "areaCond": "None",
+                        "selectType": "None",
+                        "number": 0,
+                        "sequence": {
+                            "dir": "Top",
+                            "element": "",
+                            "value": 1,
+                            "addElems": []
+                        },
+                        "conds": {
+                            "conds": []
+                        }
+                    },
+                    {
+                        "index": 0,
+                        "range": {
+                            "kind": "Select",
+                            "area": {
+                                "area": "",
+                                "index": 0
+                            },
+                            "sel": false,
+                            "selKind": "All",
+                            "selKindIndex": 1
+                        },
+                        "areaCond": "None",
+                        "selectType": "None",
+                        "number": 0,
+                        "sequence": {
+                            "dir": "Top",
+                            "element": "",
+                            "value": 1,
+                            "addElems": []
+                        },
+                        "conds": {
+                            "conds": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "card": []
+            },
+            {
+                "id": 34,
+                "card": []
+            },
+            {
+                "id": 35,
+                "card": []
+            },
+            {
+                "id": 36,
+                "card": []
+            },
+            {
+                "id": 37,
+                "card": []
+            },
+            {
+                "id": 38,
+                "card": []
+            },
+            {
+                "id": 39,
+                "card": [
+                    {
+                        "index": 0,
+                        "range": {
+                            "kind": "Position",
+                            "area": {
+                                "area": "場札",
+                                "index": 0
+                            },
+                            "sel": false,
+                            "selKind": "All",
+                            "selKindIndex": 0
+                        },
+                        "areaCond": "None",
+                        "selectType": "None",
+                        "number": 0,
+                        "sequence": {
+                            "dir": "Top",
+                            "element": "",
+                            "value": 1,
+                            "addElems": []
+                        },
+                        "conds": {
+                            "conds": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 40,
+                "card": []
+            },
+            {
+                "id": 41,
+                "card": []
+            },
+            {
+                "id": 42,
+                "card": []
+            },
+            {
+                "id": 43,
+                "card": []
+            }
+        ],
+        "cardIndexNow": 44
+    },
+    "size": 9,
+    "cardInfo": {
+        "imageSet": "/card-master/data_imageset/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_トランプ.txt",
+        "elems": [
+            {
+                "name": "マーク",
+                "kindStr": "Text"
+            },
+            {
+                "name": "数字",
+                "kindStr": "Value"
+            },
+            {
+                "name": "色",
+                "kindStr": "Text"
+            }
+        ],
+        "cards": [
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c01.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "クラブ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 1
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c02.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "クラブ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 2
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c03.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "クラブ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 3
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c04.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "クラブ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 4
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c05.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "クラブ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 5
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c06.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "クラブ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 6
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c07.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "クラブ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 7
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c08.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "クラブ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 8
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c09.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "クラブ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 9
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c10.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "クラブ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 10
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c11.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "クラブ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 11
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c12.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "クラブ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 12
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c13.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "クラブ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 13
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d01.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ダイア",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 1
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d02.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ダイア",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 2
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d03.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ダイア",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 3
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d04.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ダイア",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 4
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d05.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ダイア",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 5
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d06.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ダイア",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 6
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d07.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ダイア",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 7
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d08.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ダイア",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 8
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d09.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ダイア",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 9
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d10.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ダイア",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 10
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d11.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ダイア",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 11
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d12.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ダイア",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 12
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d13.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ダイア",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 13
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h01.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ハート",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 1
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h02.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ハート",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 2
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h03.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ハート",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 3
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h04.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ハート",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 4
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h05.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ハート",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 5
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h06.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ハート",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 6
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h07.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ハート",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 7
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h08.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ハート",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 8
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h09.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ハート",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 9
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h10.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ハート",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 10
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h11.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ハート",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 11
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h12.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ハート",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 12
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h13.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "ハート",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 13
+                    },
+                    {
+                        "element": "色",
+                        "text": "赤",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s01.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "スペード",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 1
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s02.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "スペード",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 2
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s03.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "スペード",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 3
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s04.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "スペード",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 4
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s05.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "スペード",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 5
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s06.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "スペード",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 6
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s07.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "スペード",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 7
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s08.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "スペード",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 8
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s09.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "スペード",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 9
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s10.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "スペード",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 10
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s11.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "スペード",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 11
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s12.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "スペード",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 12
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s13.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "スペード",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 13
+                    },
+                    {
+                        "element": "色",
+                        "text": "黒",
+                        "value": 0
+                    }
+                ]
+            }
+        ]
+    }
+}
