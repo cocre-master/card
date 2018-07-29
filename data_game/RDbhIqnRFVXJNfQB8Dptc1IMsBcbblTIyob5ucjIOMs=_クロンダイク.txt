@@ -1,7 +1,7 @@
 {
-    "version": 0,
-    "revision": 9,
-    "signature": "BA8hhhjZDOQpeqgzLs3Py1ce5dvWpxf2LjbMuRJ3yk8=",
+    "version": 1,
+    "revision": 33,
+    "signature": "i4XUtqEdnIsRWXRIQXYOUH0LljjQH8xpog1RVhtApQ4=",
     "cleared": false,
     "card": "/card-master/data_card/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_トランプ.txt",
     "positions": [
@@ -14,7 +14,8 @@
             "overlaid": true,
             "autoAlign": true,
             "width": 0,
-            "height": 0
+            "height": 0,
+            "max": 0
         },
         {
             "name": "捨札",
@@ -25,7 +26,8 @@
             "overlaid": true,
             "autoAlign": true,
             "width": 0,
-            "height": 0
+            "height": 0,
+            "max": 0
         },
         {
             "name": "組札",
@@ -36,7 +38,8 @@
             "overlaid": true,
             "autoAlign": true,
             "width": 0,
-            "height": 0
+            "height": 0,
+            "max": 0
         },
         {
             "name": "組札",
@@ -47,7 +50,8 @@
             "overlaid": true,
             "autoAlign": true,
             "width": 0,
-            "height": 0
+            "height": 0,
+            "max": 0
         },
         {
             "name": "組札",
@@ -58,7 +62,8 @@
             "overlaid": true,
             "autoAlign": true,
             "width": 0,
-            "height": 0
+            "height": 0,
+            "max": 0
         },
         {
             "name": "組札",
@@ -69,7 +74,8 @@
             "overlaid": true,
             "autoAlign": true,
             "width": 0,
-            "height": 0
+            "height": 0,
+            "max": 0
         },
         {
             "name": "場札",
@@ -80,7 +86,8 @@
             "overlaid": true,
             "autoAlign": true,
             "width": 0,
-            "height": 0
+            "height": 0,
+            "max": 0
         },
         {
             "name": "場札",
@@ -91,7 +98,8 @@
             "overlaid": true,
             "autoAlign": true,
             "width": 0,
-            "height": 0
+            "height": 0,
+            "max": 0
         },
         {
             "name": "場札",
@@ -102,7 +110,8 @@
             "overlaid": true,
             "autoAlign": true,
             "width": 0,
-            "height": 0
+            "height": 0,
+            "max": 0
         },
         {
             "name": "場札",
@@ -113,7 +122,8 @@
             "overlaid": true,
             "autoAlign": true,
             "width": 0,
-            "height": 0
+            "height": 0,
+            "max": 0
         },
         {
             "name": "場札",
@@ -124,7 +134,8 @@
             "overlaid": true,
             "autoAlign": true,
             "width": 0,
-            "height": 0
+            "height": 0,
+            "max": 0
         },
         {
             "name": "場札",
@@ -135,7 +146,8 @@
             "overlaid": true,
             "autoAlign": true,
             "width": 0,
-            "height": 0
+            "height": 0,
+            "max": 0
         },
         {
             "name": "場札",
@@ -146,7 +158,8 @@
             "overlaid": true,
             "autoAlign": true,
             "width": 0,
-            "height": 0
+            "height": 0,
+            "max": 0
         }
     ],
     "symbols": [
@@ -241,6 +254,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 87,
                         "cardId": 85,
@@ -273,6 +287,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 91,
                         "cardId": 89,
@@ -305,6 +320,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 95,
                         "cardId": 93,
@@ -337,6 +353,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 99,
                         "cardId": 97,
@@ -369,6 +386,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 103,
                         "cardId": 101,
@@ -401,6 +419,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 107,
                         "cardId": 105,
@@ -433,6 +452,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 111,
                         "cardId": 109,
@@ -465,6 +485,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 115,
                         "cardId": 113,
@@ -497,6 +518,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 146,
                         "cardId": 144,
@@ -527,6 +549,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 119,
                         "cardId": 117,
@@ -548,6 +571,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 122,
                         "cardId": 120,
@@ -569,6 +593,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 125,
                         "cardId": 123,
@@ -650,6 +675,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 128,
                         "cardId": 126,
@@ -697,6 +723,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 174,
                         "cardId": 172,
@@ -752,6 +779,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 158,
                         "cardId": 156,
@@ -788,6 +816,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 162,
                         "cardId": 160,
@@ -814,6 +843,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 153,
                         "cardId": 151,
@@ -867,6 +897,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 166,
                         "cardId": 164,
@@ -899,6 +930,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 209,
                         "cardId": 207,
@@ -925,6 +957,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 170,
                         "cardId": 168,
@@ -985,6 +1018,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 178,
                         "cardId": 176,
@@ -1021,6 +1055,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 182,
                         "cardId": 180,
@@ -1057,6 +1092,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 186,
                         "cardId": 184,
@@ -1083,6 +1119,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 190,
                         "cardId": 188,
@@ -1109,6 +1146,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 193,
                         "cardId": 191,
@@ -1150,6 +1188,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 222,
                         "cardId": 220,
@@ -1186,6 +1225,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 226,
                         "cardId": 224,
@@ -1212,6 +1252,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 199,
                         "cardId": 197,
@@ -1249,6 +1290,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 214,
                         "cardId": 212,
@@ -1286,6 +1328,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 218,
                         "cardId": 216,
@@ -1347,6 +1390,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 230,
                         "cardId": 228,
@@ -1373,6 +1417,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 237,
                         "cardId": 235,
@@ -1399,6 +1444,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 233,
                         "cardId": 231,
@@ -1440,6 +1486,7 @@
                         },
                         "selNumber": 1,
                         "selMax": false,
+                        "selAny": false,
                         "selFlip": false,
                         "selCardId": 240,
                         "cardId": 238,
