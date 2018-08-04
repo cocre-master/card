@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "revision": 11,
-    "signature": "s7Qqti9v0zhNFMjHbnBEXtyAcpJU8wveptgSgQYvhfw=",
+    "revision": 30,
+    "signature": "j9Ssbpo33/tJcOD+3HJ8VQc+IAobRnWbEX6+4hXQtlc=",
     "cleared": false,
     "card": "/card-master/data_card/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_トランプ.txt",
     "positions": [
@@ -70,6 +70,7 @@
                         "selAny": false,
                         "selFlip": false,
                         "selCardId": 12,
+                        "cardRandom": true,
                         "cardId": 10,
                         "places": {
                             "places": [
@@ -108,6 +109,7 @@
                         "selAny": false,
                         "selFlip": false,
                         "selCardId": 40,
+                        "cardRandom": false,
                         "cardId": 38,
                         "places": {
                             "places": []
@@ -130,6 +132,7 @@
                         "selAny": false,
                         "selFlip": true,
                         "selCardId": 16,
+                        "cardRandom": false,
                         "cardId": 14,
                         "places": {
                             "places": []
@@ -161,6 +164,7 @@
                         "selAny": false,
                         "selFlip": true,
                         "selCardId": 23,
+                        "cardRandom": false,
                         "cardId": 21,
                         "places": {
                             "places": []
@@ -207,6 +211,7 @@
                         "selAny": false,
                         "selFlip": false,
                         "selCardId": 26,
+                        "cardRandom": false,
                         "cardId": 24,
                         "places": {
                             "places": []
@@ -244,6 +249,7 @@
                         "selAny": false,
                         "selFlip": false,
                         "selCardId": 30,
+                        "cardRandom": false,
                         "cardId": 28,
                         "places": {
                             "places": []
@@ -271,6 +277,7 @@
                         "selAny": false,
                         "selFlip": false,
                         "selCardId": 34,
+                        "cardRandom": false,
                         "cardId": 32,
                         "places": {
                             "places": [
@@ -309,6 +316,7 @@
                         "selAny": false,
                         "selFlip": false,
                         "selCardId": 43,
+                        "cardRandom": false,
                         "cardId": 41,
                         "places": {
                             "places": []
@@ -344,502 +352,598 @@
         "cards": [
             {
                 "id": 0,
+                "random": false,
                 "card": [
                     {
-                        "index": 0,
-                        "range": {
-                            "kind": "All",
-                            "area": {
-                                "area": "",
-                                "index": 0
-                            },
-                            "sel": false,
-                            "selKind": "All",
-                            "selKindIndex": 0
-                        },
-                        "areaCond": "None",
-                        "selectType": "Random",
-                        "number": 0,
-                        "sequence": {
-                            "dir": "Top",
-                            "element": "",
-                            "value": 1,
-                            "addElems": []
-                        },
-                        "conds": {
-                            "conds": []
-                        }
+                        "infos": []
                     }
                 ]
             },
             {
                 "id": 1,
+                "random": false,
                 "card": []
             },
             {
                 "id": 2,
+                "random": false,
                 "card": []
             },
             {
                 "id": 3,
+                "random": false,
                 "card": [
                     {
-                        "index": 0,
-                        "range": {
-                            "kind": "Position",
-                            "area": {
-                                "area": "場札",
-                                "index": 0
-                            },
-                            "sel": false,
-                            "selKind": "All",
-                            "selKindIndex": 0
-                        },
-                        "areaCond": "None",
-                        "selectType": "None",
-                        "number": 0,
-                        "sequence": {
-                            "dir": "Top",
-                            "element": "",
-                            "value": 1,
-                            "addElems": []
-                        },
-                        "conds": {
-                            "conds": []
-                        }
+                        "infos": []
                     }
                 ]
             },
             {
                 "id": 4,
+                "random": false,
                 "card": []
             },
             {
                 "id": 5,
+                "random": false,
                 "card": [
                     {
-                        "index": 0,
-                        "range": {
-                            "kind": "Position",
-                            "area": {
-                                "area": "場札",
-                                "index": 0
-                            },
-                            "sel": false,
-                            "selKind": "All",
-                            "selKindIndex": 0
-                        },
-                        "areaCond": "None",
-                        "selectType": "None",
-                        "number": 0,
-                        "sequence": {
-                            "dir": "Top",
-                            "element": "",
-                            "value": 1,
-                            "addElems": []
-                        },
-                        "conds": {
-                            "conds": []
-                        }
+                        "infos": []
                     }
                 ]
             },
             {
                 "id": 6,
+                "random": false,
                 "card": [
                     {
-                        "index": 0,
-                        "range": {
-                            "kind": "SelCard",
-                            "area": {
-                                "area": "",
-                                "index": 0
-                            },
-                            "sel": false,
-                            "selKind": "All",
-                            "selKindIndex": 0
-                        },
-                        "areaCond": "None",
-                        "selectType": "None",
-                        "number": 0,
-                        "sequence": {
-                            "dir": "Top",
-                            "element": "",
-                            "value": 1,
-                            "addElems": []
-                        },
-                        "conds": {
-                            "conds": []
-                        }
+                        "infos": []
                     }
                 ]
             },
             {
                 "id": 7,
+                "random": false,
                 "card": []
             },
             {
                 "id": 8,
+                "random": false,
                 "card": []
             },
             {
                 "id": 9,
+                "random": false,
                 "card": []
             },
             {
                 "id": 10,
+                "random": false,
                 "card": [
                     {
-                        "index": 0,
-                        "range": {
-                            "kind": "All",
-                            "area": {
-                                "area": "",
-                                "index": 0
-                            },
-                            "sel": false,
-                            "selKind": "All",
-                            "selKindIndex": 0
-                        },
-                        "areaCond": "None",
-                        "selectType": "Random",
-                        "number": 0,
-                        "sequence": {
-                            "dir": "Top",
-                            "element": "",
-                            "value": 1,
-                            "addElems": []
-                        },
-                        "conds": {
-                            "conds": []
-                        }
+                        "infos": [
+                            {
+                                "kind": "Position",
+                                "area": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "cond": "None"
+                                },
+                                "position": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "selectType": "None",
+                                    "number": 0,
+                                    "sequence": {
+                                        "dir": "Top",
+                                        "element": "",
+                                        "value": 1,
+                                        "addElems": []
+                                    }
+                                },
+                                "elem": {
+                                    "kind": "Element",
+                                    "element": "マーク",
+                                    "kindSelIndex": -1,
+                                    "condition": "Equal",
+                                    "value": 0,
+                                    "elemValue": "クラブ"
+                                },
+                                "sel": {
+                                    "selKindIndex": -1,
+                                    "selCard": false,
+                                    "front": false,
+                                    "frontNumber": 0,
+                                    "back": false,
+                                    "backNumber": 0
+                                }
+                            }
+                        ]
                     }
                 ]
             },
             {
                 "id": 11,
+                "random": false,
                 "card": []
             },
             {
                 "id": 12,
+                "random": false,
                 "card": []
             },
             {
                 "id": 13,
+                "random": false,
                 "card": []
             },
             {
                 "id": 14,
+                "random": false,
                 "card": []
             },
             {
                 "id": 15,
+                "random": false,
                 "card": []
             },
             {
                 "id": 16,
+                "random": false,
                 "card": [
                     {
-                        "index": 0,
-                        "range": {
-                            "kind": "Position",
-                            "area": {
-                                "area": "場札",
-                                "index": 0
-                            },
-                            "sel": false,
-                            "selKind": "All",
-                            "selKindIndex": 0
-                        },
-                        "areaCond": "None",
-                        "selectType": "None",
-                        "number": 0,
-                        "sequence": {
-                            "dir": "Top",
-                            "element": "",
-                            "value": 1,
-                            "addElems": []
-                        },
-                        "conds": {
-                            "conds": []
-                        }
+                        "infos": [
+                            {
+                                "kind": "Position",
+                                "area": {
+                                    "range": {
+                                        "kind": "Position",
+                                        "area": {
+                                            "area": "場札",
+                                            "index": 0
+                                        }
+                                    },
+                                    "cond": "None"
+                                },
+                                "position": {
+                                    "range": {
+                                        "kind": "Position",
+                                        "area": {
+                                            "area": "場札",
+                                            "index": 0
+                                        }
+                                    },
+                                    "selectType": "None",
+                                    "number": 0,
+                                    "sequence": {
+                                        "dir": "Top",
+                                        "element": "",
+                                        "value": 1,
+                                        "addElems": []
+                                    }
+                                },
+                                "elem": {
+                                    "kind": "Element",
+                                    "element": "マーク",
+                                    "kindSelIndex": -1,
+                                    "condition": "Equal",
+                                    "value": 0,
+                                    "elemValue": "クラブ"
+                                },
+                                "sel": {
+                                    "selKindIndex": -1,
+                                    "selCard": false,
+                                    "front": false,
+                                    "frontNumber": 0,
+                                    "back": false,
+                                    "backNumber": 0
+                                }
+                            }
+                        ]
                     }
                 ]
             },
             {
                 "id": 17,
+                "random": false,
                 "card": [
                     {
-                        "index": 0,
-                        "range": {
-                            "kind": "Select",
-                            "area": {
-                                "area": "",
-                                "index": 0
-                            },
-                            "sel": false,
-                            "selKind": "All",
-                            "selKindIndex": 0
-                        },
-                        "areaCond": "None",
-                        "selectType": "None",
-                        "number": 0,
-                        "sequence": {
-                            "dir": "Top",
-                            "element": "",
-                            "value": 1,
-                            "addElems": []
-                        },
-                        "conds": {
-                            "conds": []
-                        }
+                        "infos": []
                     }
                 ]
             },
             {
                 "id": 18,
+                "random": false,
                 "card": []
             },
             {
                 "id": 19,
+                "random": false,
                 "card": []
             },
             {
                 "id": 20,
+                "random": false,
                 "card": []
             },
             {
                 "id": 21,
+                "random": false,
                 "card": []
             },
             {
                 "id": 22,
+                "random": false,
                 "card": []
             },
             {
                 "id": 23,
+                "random": false,
                 "card": [
                     {
-                        "index": 0,
-                        "range": {
-                            "kind": "Position",
-                            "area": {
-                                "area": "場札",
-                                "index": 0
-                            },
-                            "sel": false,
-                            "selKind": "All",
-                            "selKindIndex": 0
-                        },
-                        "areaCond": "None",
-                        "selectType": "None",
-                        "number": 0,
-                        "sequence": {
-                            "dir": "Top",
-                            "element": "",
-                            "value": 1,
-                            "addElems": []
-                        },
-                        "conds": {
-                            "conds": []
-                        }
+                        "infos": [
+                            {
+                                "kind": "Position",
+                                "area": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "cond": "None"
+                                },
+                                "position": {
+                                    "range": {
+                                        "kind": "Position",
+                                        "area": {
+                                            "area": "場札",
+                                            "index": 0
+                                        }
+                                    },
+                                    "selectType": "None",
+                                    "number": 0,
+                                    "sequence": {
+                                        "dir": "Top",
+                                        "element": "",
+                                        "value": 1,
+                                        "addElems": []
+                                    }
+                                },
+                                "elem": {
+                                    "kind": "Element",
+                                    "element": "マーク",
+                                    "kindSelIndex": -1,
+                                    "condition": "Equal",
+                                    "value": 0,
+                                    "elemValue": "クラブ"
+                                },
+                                "sel": {
+                                    "selKindIndex": 0,
+                                    "selCard": false,
+                                    "front": false,
+                                    "frontNumber": 0,
+                                    "back": false,
+                                    "backNumber": 0
+                                }
+                            }
+                        ]
                     }
                 ]
             },
             {
                 "id": 24,
+                "random": false,
                 "card": []
             },
             {
                 "id": 25,
+                "random": false,
                 "card": []
             },
             {
                 "id": 26,
+                "random": false,
                 "card": []
             },
             {
                 "id": 27,
+                "random": false,
                 "card": [
                     {
-                        "index": 0,
-                        "range": {
-                            "kind": "All",
-                            "area": {
-                                "area": "",
-                                "index": 0
-                            },
-                            "sel": false,
-                            "selKind": "All",
-                            "selKindIndex": 0
-                        },
-                        "areaCond": "None",
-                        "selectType": "None",
-                        "number": 0,
-                        "sequence": {
-                            "dir": "Top",
-                            "element": "",
-                            "value": 1,
-                            "addElems": []
-                        },
-                        "conds": {
-                            "conds": [
-                                {
-                                    "items": [
-                                        {
-                                            "kind": "SelectElem",
-                                            "element": "数字",
-                                            "kindSelIndex": 0,
-                                            "condition": "Equal",
-                                            "value": 0,
-                                            "elemValue": "1"
+                        "infos": [
+                            {
+                                "kind": "Element",
+                                "area": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
                                         }
-                                    ]
+                                    },
+                                    "cond": "None"
+                                },
+                                "position": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "selectType": "None",
+                                    "number": 0,
+                                    "sequence": {
+                                        "dir": "Top",
+                                        "element": "",
+                                        "value": 1,
+                                        "addElems": []
+                                    }
+                                },
+                                "elem": {
+                                    "kind": "SelectElem",
+                                    "element": "数字",
+                                    "kindSelIndex": 0,
+                                    "condition": "Equal",
+                                    "value": 0,
+                                    "elemValue": ""
+                                },
+                                "sel": {
+                                    "selKindIndex": 0,
+                                    "selCard": false,
+                                    "front": false,
+                                    "frontNumber": 0,
+                                    "back": false,
+                                    "backNumber": 0
                                 }
-                            ]
-                        }
+                            }
+                        ]
                     }
                 ]
             },
             {
                 "id": 28,
+                "random": false,
                 "card": []
             },
             {
                 "id": 29,
+                "random": false,
                 "card": []
             },
             {
                 "id": 30,
+                "random": false,
                 "card": []
             },
             {
                 "id": 31,
+                "random": false,
                 "card": []
             },
             {
                 "id": 32,
+                "random": false,
                 "card": [
                     {
-                        "index": 0,
-                        "range": {
-                            "kind": "Select",
-                            "area": {
-                                "area": "",
-                                "index": 0
-                            },
-                            "sel": false,
-                            "selKind": "All",
-                            "selKindIndex": 2
-                        },
-                        "areaCond": "None",
-                        "selectType": "None",
-                        "number": 0,
-                        "sequence": {
-                            "dir": "Top",
-                            "element": "",
-                            "value": 1,
-                            "addElems": []
-                        },
-                        "conds": {
-                            "conds": []
-                        }
+                        "infos": [
+                            {
+                                "kind": "Select",
+                                "area": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "cond": "None"
+                                },
+                                "position": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "selectType": "None",
+                                    "number": 0,
+                                    "sequence": {
+                                        "dir": "Top",
+                                        "element": "",
+                                        "value": 1,
+                                        "addElems": []
+                                    }
+                                },
+                                "elem": {
+                                    "kind": "Element",
+                                    "element": "マーク",
+                                    "kindSelIndex": -1,
+                                    "condition": "Equal",
+                                    "value": 0,
+                                    "elemValue": "クラブ"
+                                },
+                                "sel": {
+                                    "selKindIndex": 2,
+                                    "selCard": true,
+                                    "front": false,
+                                    "frontNumber": 0,
+                                    "back": false,
+                                    "backNumber": 0
+                                }
+                            }
+                        ]
                     },
                     {
-                        "index": 0,
-                        "range": {
-                            "kind": "Select",
-                            "area": {
-                                "area": "",
-                                "index": 0
-                            },
-                            "sel": false,
-                            "selKind": "All",
-                            "selKindIndex": 1
-                        },
-                        "areaCond": "None",
-                        "selectType": "None",
-                        "number": 0,
-                        "sequence": {
-                            "dir": "Top",
-                            "element": "",
-                            "value": 1,
-                            "addElems": []
-                        },
-                        "conds": {
-                            "conds": []
-                        }
+                        "infos": [
+                            {
+                                "kind": "Select",
+                                "area": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "cond": "None"
+                                },
+                                "position": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "selectType": "None",
+                                    "number": 0,
+                                    "sequence": {
+                                        "dir": "Top",
+                                        "element": "",
+                                        "value": 1,
+                                        "addElems": []
+                                    }
+                                },
+                                "elem": {
+                                    "kind": "Element",
+                                    "element": "マーク",
+                                    "kindSelIndex": -1,
+                                    "condition": "Equal",
+                                    "value": 0,
+                                    "elemValue": "クラブ"
+                                },
+                                "sel": {
+                                    "selKindIndex": 1,
+                                    "selCard": true,
+                                    "front": false,
+                                    "frontNumber": 0,
+                                    "back": false,
+                                    "backNumber": 0
+                                }
+                            }
+                        ]
                     }
                 ]
             },
             {
                 "id": 33,
+                "random": false,
                 "card": []
             },
             {
                 "id": 34,
+                "random": false,
                 "card": []
             },
             {
                 "id": 35,
+                "random": false,
                 "card": []
             },
             {
                 "id": 36,
+                "random": false,
                 "card": []
             },
             {
                 "id": 37,
+                "random": false,
                 "card": []
             },
             {
                 "id": 38,
+                "random": false,
                 "card": []
             },
             {
                 "id": 39,
+                "random": false,
                 "card": [
                     {
-                        "index": 0,
-                        "range": {
-                            "kind": "Position",
-                            "area": {
-                                "area": "場札",
-                                "index": 0
-                            },
-                            "sel": false,
-                            "selKind": "All",
-                            "selKindIndex": 0
-                        },
-                        "areaCond": "None",
-                        "selectType": "None",
-                        "number": 0,
-                        "sequence": {
-                            "dir": "Top",
-                            "element": "",
-                            "value": 1,
-                            "addElems": []
-                        },
-                        "conds": {
-                            "conds": []
-                        }
+                        "infos": [
+                            {
+                                "kind": "Position",
+                                "area": {
+                                    "range": {
+                                        "kind": "Position",
+                                        "area": {
+                                            "area": "場札",
+                                            "index": 0
+                                        }
+                                    },
+                                    "cond": "None"
+                                },
+                                "position": {
+                                    "range": {
+                                        "kind": "Position",
+                                        "area": {
+                                            "area": "場札",
+                                            "index": 0
+                                        }
+                                    },
+                                    "selectType": "None",
+                                    "number": 0,
+                                    "sequence": {
+                                        "dir": "Top",
+                                        "element": "",
+                                        "value": 1,
+                                        "addElems": []
+                                    }
+                                },
+                                "elem": {
+                                    "kind": "Element",
+                                    "element": "マーク",
+                                    "kindSelIndex": -1,
+                                    "condition": "Equal",
+                                    "value": 0,
+                                    "elemValue": "クラブ"
+                                },
+                                "sel": {
+                                    "selKindIndex": -1,
+                                    "selCard": false,
+                                    "front": false,
+                                    "frontNumber": 0,
+                                    "back": false,
+                                    "backNumber": 0
+                                }
+                            }
+                        ]
                     }
                 ]
             },
             {
                 "id": 40,
+                "random": false,
                 "card": []
             },
             {
                 "id": 41,
+                "random": false,
                 "card": []
             },
             {
                 "id": 42,
+                "random": false,
                 "card": []
             },
             {
                 "id": 43,
+                "random": false,
                 "card": []
             }
         ],
