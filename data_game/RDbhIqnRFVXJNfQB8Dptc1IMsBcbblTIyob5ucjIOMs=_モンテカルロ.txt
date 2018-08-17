@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "revision": 47,
-    "signature": "woZLa/DnKNOdVS90PhZP+gxIO0qV1ZcSax22F0ad8zk=",
+    "revision": 52,
+    "signature": "txm5Uk3kbYwG0EcR+oCa8hZfB8fm2v2Z9XfTULnbZl4=",
     "cleared": false,
     "card": "/card-master/data_card/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_トランプ.txt",
     "positions": [
@@ -54,13 +54,13 @@
                         "cardId": 9,
                         "symbol": "",
                         "symbolCond": "Equal",
-                        "symbolValue": 0,
+                        "symbolValueId": 4,
                         "area": {
                             "area": "場札",
                             "index": 0
                         },
                         "areaCond": "Equal",
-                        "areaValue": 0
+                        "areaValueId": 1
                     },
                     {
                         "kind": "Place",
@@ -68,13 +68,13 @@
                         "cardId": 46,
                         "symbol": "",
                         "symbolCond": "Equal",
-                        "symbolValue": 0,
+                        "symbolValueId": 6,
                         "area": {
                             "area": "山札",
                             "index": 0
                         },
                         "areaCond": "Equal",
-                        "areaValue": 0
+                        "areaValueId": 2
                     }
                 ]
             }
@@ -91,7 +91,7 @@
                         "conds": {
                             "conds": []
                         },
-                        "selNumber": 1,
+                        "selNumberId": -1,
                         "selMax": false,
                         "selAny": false,
                         "selFlip": false,
@@ -114,7 +114,7 @@
                         },
                         "symbol": "",
                         "symbolType": "Fix",
-                        "symbolValue": 0,
+                        "symbolValueId": -1,
                         "flip": "Front",
                         "flipCardId": 11,
                         "waitTime": 1,
@@ -130,7 +130,7 @@
                         "conds": {
                             "conds": []
                         },
-                        "selNumber": 1,
+                        "selNumberId": -1,
                         "selMax": false,
                         "selAny": false,
                         "selFlip": false,
@@ -142,7 +142,7 @@
                         },
                         "symbol": "",
                         "symbolType": "Fix",
-                        "symbolValue": 0,
+                        "symbolValueId": -1,
                         "flip": "Front",
                         "flipCardId": 39,
                         "waitTime": 1,
@@ -153,7 +153,7 @@
                         "conds": {
                             "conds": []
                         },
-                        "selNumber": 1,
+                        "selNumberId": 11,
                         "selMax": false,
                         "selAny": false,
                         "selFlip": false,
@@ -165,17 +165,13 @@
                         },
                         "symbol": "",
                         "symbolType": "Fix",
-                        "symbolValue": 0,
+                        "symbolValueId": 14,
                         "flip": "Front",
                         "flipCardId": 15,
-                        "waitTime": 1,
+                        "waitTime": 5,
                         "childId": 3
                     }
                 ]
-            },
-            {
-                "id": 2,
-                "items": []
             },
             {
                 "id": 3,
@@ -190,17 +186,17 @@
                                     "cardId": 48,
                                     "symbol": "",
                                     "symbolCond": "Equal",
-                                    "symbolValue": 0,
+                                    "symbolValueId": -1,
                                     "area": {
                                         "area": "場札",
                                         "index": 0
                                     },
                                     "areaCond": "Equal",
-                                    "areaValue": 0
+                                    "areaValueId": -1
                                 }
                             ]
                         },
-                        "selNumber": 1,
+                        "selNumberId": -1,
                         "selMax": false,
                         "selAny": false,
                         "selFlip": false,
@@ -212,7 +208,7 @@
                         },
                         "symbol": "",
                         "symbolType": "Fix",
-                        "symbolValue": 0,
+                        "symbolValueId": -1,
                         "flip": "Front",
                         "flipCardId": 45,
                         "waitTime": 1,
@@ -228,17 +224,17 @@
                                     "cardId": 52,
                                     "symbol": "",
                                     "symbolCond": "Equal",
-                                    "symbolValue": 0,
+                                    "symbolValueId": -1,
                                     "area": {
                                         "area": "",
                                         "index": 0
                                     },
                                     "areaCond": "Equal",
-                                    "areaValue": 0
+                                    "areaValueId": -1
                                 }
                             ]
                         },
-                        "selNumber": 1,
+                        "selNumberId": -1,
                         "selMax": false,
                         "selAny": false,
                         "selFlip": false,
@@ -250,17 +246,13 @@
                         },
                         "symbol": "",
                         "symbolType": "Fix",
-                        "symbolValue": 0,
+                        "symbolValueId": -1,
                         "flip": "Front",
                         "flipCardId": 50,
                         "waitTime": 1,
                         "childId": 13
                     }
                 ]
-            },
-            {
-                "id": 4,
-                "items": []
             },
             {
                 "id": 5,
@@ -275,17 +267,17 @@
                                     "cardId": 27,
                                     "symbol": "",
                                     "symbolCond": "Equal",
-                                    "symbolValue": 0,
+                                    "symbolValueId": -1,
                                     "area": {
                                         "area": "場札",
                                         "index": 0
                                     },
                                     "areaCond": "Equal",
-                                    "areaValue": 0
+                                    "areaValueId": -1
                                 }
                             ]
                         },
-                        "selNumber": 1,
+                        "selNumberId": -1,
                         "selMax": false,
                         "selAny": false,
                         "selFlip": false,
@@ -297,7 +289,7 @@
                         },
                         "symbol": "",
                         "symbolType": "Fix",
-                        "symbolValue": 0,
+                        "symbolValueId": -1,
                         "flip": "Front",
                         "flipCardId": 25,
                         "waitTime": 1,
@@ -313,17 +305,17 @@
                                     "cardId": 31,
                                     "symbol": "",
                                     "symbolCond": "Equal",
-                                    "symbolValue": 0,
+                                    "symbolValueId": -1,
                                     "area": {
                                         "area": "",
                                         "index": 0
                                     },
                                     "areaCond": "Equal",
-                                    "areaValue": 0
+                                    "areaValueId": -1
                                 }
                             ]
                         },
-                        "selNumber": 1,
+                        "selNumberId": -1,
                         "selMax": false,
                         "selAny": false,
                         "selFlip": false,
@@ -335,7 +327,7 @@
                         },
                         "symbol": "",
                         "symbolType": "Fix",
-                        "symbolValue": 0,
+                        "symbolValueId": -1,
                         "flip": "Front",
                         "flipCardId": 29,
                         "waitTime": 1,
@@ -351,7 +343,7 @@
                         "conds": {
                             "conds": []
                         },
-                        "selNumber": 1,
+                        "selNumberId": -1,
                         "selMax": false,
                         "selAny": false,
                         "selFlip": false,
@@ -374,7 +366,7 @@
                         },
                         "symbol": "",
                         "symbolType": "Fix",
-                        "symbolValue": 0,
+                        "symbolValueId": -1,
                         "flip": "Front",
                         "flipCardId": 33,
                         "waitTime": 1,
@@ -390,7 +382,7 @@
                         "conds": {
                             "conds": []
                         },
-                        "selNumber": 1,
+                        "selNumberId": -1,
                         "selMax": false,
                         "selAny": false,
                         "selFlip": false,
@@ -402,29 +394,13 @@
                         },
                         "symbol": "",
                         "symbolType": "Fix",
-                        "symbolValue": 0,
+                        "symbolValueId": -1,
                         "flip": "Front",
                         "flipCardId": 42,
                         "waitTime": 1,
                         "childId": 11
                     }
                 ]
-            },
-            {
-                "id": 8,
-                "items": []
-            },
-            {
-                "id": 9,
-                "items": []
-            },
-            {
-                "id": 10,
-                "items": []
-            },
-            {
-                "id": 11,
-                "items": []
             },
             {
                 "id": 12,
@@ -434,7 +410,7 @@
                         "conds": {
                             "conds": []
                         },
-                        "selNumber": 1,
+                        "selNumberId": -1,
                         "selMax": false,
                         "selAny": false,
                         "selFlip": false,
@@ -457,7 +433,7 @@
                         },
                         "symbol": "",
                         "symbolType": "Fix",
-                        "symbolValue": 0,
+                        "symbolValueId": -1,
                         "flip": "Front",
                         "flipCardId": 54,
                         "waitTime": 1,
@@ -473,7 +449,7 @@
                         "conds": {
                             "conds": []
                         },
-                        "selNumber": 1,
+                        "selNumberId": 13,
                         "selMax": false,
                         "selAny": false,
                         "selFlip": false,
@@ -485,17 +461,13 @@
                         },
                         "symbol": "",
                         "symbolType": "Fix",
-                        "symbolValue": 0,
+                        "symbolValueId": 21,
                         "flip": "Front",
                         "flipCardId": 59,
-                        "waitTime": 1,
+                        "waitTime": 5,
                         "childId": 15
                     }
                 ]
-            },
-            {
-                "id": 14,
-                "items": []
             },
             {
                 "id": 15,
@@ -510,17 +482,17 @@
                                     "cardId": 64,
                                     "symbol": "",
                                     "symbolCond": "Equal",
-                                    "symbolValue": 0,
+                                    "symbolValueId": -1,
                                     "area": {
                                         "area": "場札",
                                         "index": 0
                                     },
                                     "areaCond": "Equal",
-                                    "areaValue": 0
+                                    "areaValueId": -1
                                 }
                             ]
                         },
-                        "selNumber": 1,
+                        "selNumberId": -1,
                         "selMax": false,
                         "selAny": false,
                         "selFlip": false,
@@ -532,7 +504,7 @@
                         },
                         "symbol": "",
                         "symbolType": "Fix",
-                        "symbolValue": 0,
+                        "symbolValueId": -1,
                         "flip": "Front",
                         "flipCardId": 62,
                         "waitTime": 1,
@@ -548,7 +520,7 @@
                         "conds": {
                             "conds": []
                         },
-                        "selNumber": 1,
+                        "selNumberId": -1,
                         "selMax": false,
                         "selAny": false,
                         "selFlip": false,
@@ -571,17 +543,13 @@
                         },
                         "symbol": "",
                         "symbolType": "Fix",
-                        "symbolValue": 0,
+                        "symbolValueId": -1,
                         "flip": "Front",
                         "flipCardId": 66,
                         "waitTime": 1,
                         "childId": 17
                     }
                 ]
-            },
-            {
-                "id": 17,
-                "items": []
             }
         ],
         "itemIndexNow": 18,
@@ -597,16 +565,6 @@
                 ]
             },
             {
-                "id": 1,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 2,
-                "random": false,
-                "card": []
-            },
-            {
                 "id": 3,
                 "random": false,
                 "card": [
@@ -615,11 +573,6 @@
                         "infos": []
                     }
                 ]
-            },
-            {
-                "id": 4,
-                "random": false,
-                "card": []
             },
             {
                 "id": 5,
@@ -640,21 +593,6 @@
                         "infos": []
                     }
                 ]
-            },
-            {
-                "id": 7,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 8,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 9,
-                "random": false,
-                "card": []
             },
             {
                 "id": 10,
@@ -684,11 +622,11 @@
                                         }
                                     },
                                     "selectType": "None",
-                                    "number": 0,
+                                    "numberId": 7,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -697,16 +635,16 @@
                                     "element": "マーク",
                                     "kindSelIndex": -1,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": -1,
                                     "elemValue": "クラブ"
                                 },
                                 "sel": {
                                     "selKindIndex": -1,
                                     "selCard": false,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": -1,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": -1,
                                     "neighbor": {
                                         "leftUp": false,
                                         "up": false,
@@ -722,31 +660,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "id": 11,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 12,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 13,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 14,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 15,
-                "random": false,
-                "card": []
             },
             {
                 "id": 16,
@@ -776,11 +689,11 @@
                                         }
                                     },
                                     "selectType": "Top",
-                                    "number": 1,
+                                    "numberId": 9,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -789,16 +702,16 @@
                                     "element": "マーク",
                                     "kindSelIndex": -1,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": 18,
                                     "elemValue": "クラブ"
                                 },
                                 "sel": {
                                     "selKindIndex": -1,
                                     "selCard": false,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": 19,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": 20,
                                     "neighbor": {
                                         "leftUp": false,
                                         "up": false,
@@ -837,11 +750,11 @@
                                         }
                                     },
                                     "selectType": "None",
-                                    "number": 0,
+                                    "numberId": 10,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -850,16 +763,16 @@
                                     "element": "マーク",
                                     "kindSelIndex": -1,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": -1,
                                     "elemValue": "クラブ"
                                 },
                                 "sel": {
                                     "selKindIndex": -1,
                                     "selCard": false,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": -1,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": -1,
                                     "neighbor": {
                                         "leftUp": false,
                                         "up": false,
@@ -885,31 +798,6 @@
                         "infos": []
                     }
                 ]
-            },
-            {
-                "id": 18,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 19,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 20,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 21,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 22,
-                "random": false,
-                "card": []
             },
             {
                 "id": 23,
@@ -939,11 +827,11 @@
                                         }
                                     },
                                     "selectType": "None",
-                                    "number": 0,
+                                    "numberId": -1,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -952,16 +840,16 @@
                                     "element": "マーク",
                                     "kindSelIndex": -1,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": -1,
                                     "elemValue": "クラブ"
                                 },
                                 "sel": {
                                     "selKindIndex": 0,
                                     "selCard": false,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": -1,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": -1,
                                     "neighbor": {
                                         "leftUp": false,
                                         "up": false,
@@ -977,21 +865,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "id": 24,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 25,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 26,
-                "random": false,
-                "card": []
             },
             {
                 "id": 27,
@@ -1021,11 +894,11 @@
                                         }
                                     },
                                     "selectType": "None",
-                                    "number": 0,
+                                    "numberId": -1,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -1034,16 +907,16 @@
                                     "element": "数字",
                                     "kindSelIndex": 0,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": -1,
                                     "elemValue": ""
                                 },
                                 "sel": {
                                     "selKindIndex": 0,
                                     "selCard": false,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": -1,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": -1,
                                     "neighbor": {
                                         "leftUp": false,
                                         "up": false,
@@ -1059,26 +932,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "id": 28,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 29,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 30,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 31,
-                "random": false,
-                "card": []
             },
             {
                 "id": 32,
@@ -1108,11 +961,11 @@
                                         }
                                     },
                                     "selectType": "None",
-                                    "number": 0,
+                                    "numberId": -1,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -1121,16 +974,16 @@
                                     "element": "マーク",
                                     "kindSelIndex": -1,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": -1,
                                     "elemValue": "クラブ"
                                 },
                                 "sel": {
                                     "selKindIndex": 2,
                                     "selCard": true,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": -1,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": -1,
                                     "neighbor": {
                                         "leftUp": false,
                                         "up": false,
@@ -1169,11 +1022,11 @@
                                         }
                                     },
                                     "selectType": "None",
-                                    "number": 0,
+                                    "numberId": -1,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -1182,16 +1035,16 @@
                                     "element": "マーク",
                                     "kindSelIndex": -1,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": -1,
                                     "elemValue": "クラブ"
                                 },
                                 "sel": {
                                     "selKindIndex": 1,
                                     "selCard": true,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": -1,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": -1,
                                     "neighbor": {
                                         "leftUp": false,
                                         "up": false,
@@ -1207,36 +1060,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "id": 33,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 34,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 35,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 36,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 37,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 38,
-                "random": false,
-                "card": []
             },
             {
                 "id": 39,
@@ -1266,11 +1089,11 @@
                                         }
                                     },
                                     "selectType": "None",
-                                    "number": 0,
+                                    "numberId": 8,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -1279,16 +1102,16 @@
                                     "element": "マーク",
                                     "kindSelIndex": -1,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": -1,
                                     "elemValue": "クラブ"
                                 },
                                 "sel": {
                                     "selKindIndex": -1,
                                     "selCard": false,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": -1,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": -1,
                                     "neighbor": {
                                         "leftUp": false,
                                         "up": false,
@@ -1304,46 +1127,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "id": 40,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 41,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 42,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 43,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 44,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 45,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 46,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 47,
-                "random": false,
-                "card": []
             },
             {
                 "id": 48,
@@ -1373,11 +1156,11 @@
                                         }
                                     },
                                     "selectType": "None",
-                                    "number": 0,
+                                    "numberId": 12,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -1386,16 +1169,16 @@
                                     "element": "マーク",
                                     "kindSelIndex": -1,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": -1,
                                     "elemValue": "クラブ"
                                 },
                                 "sel": {
                                     "selKindIndex": 0,
                                     "selCard": false,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": -1,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": -1,
                                     "neighbor": {
                                         "leftUp": false,
                                         "up": false,
@@ -1411,26 +1194,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "id": 49,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 50,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 51,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 52,
-                "random": false,
-                "card": []
             },
             {
                 "id": 53,
@@ -1460,11 +1223,11 @@
                                         }
                                     },
                                     "selectType": "None",
-                                    "number": 0,
+                                    "numberId": -1,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -1473,16 +1236,16 @@
                                     "element": "マーク",
                                     "kindSelIndex": -1,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": -1,
                                     "elemValue": "クラブ"
                                 },
                                 "sel": {
                                     "selKindIndex": 1,
                                     "selCard": true,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": -1,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": -1,
                                     "neighbor": {
                                         "leftUp": false,
                                         "up": false,
@@ -1498,36 +1261,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "id": 54,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 55,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 56,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 57,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 58,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 59,
-                "random": false,
-                "card": []
             },
             {
                 "id": 60,
@@ -1557,11 +1290,11 @@
                                         }
                                     },
                                     "selectType": "None",
-                                    "number": 0,
+                                    "numberId": -1,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -1570,16 +1303,16 @@
                                     "element": "マーク",
                                     "kindSelIndex": -1,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": -1,
                                     "elemValue": "クラブ"
                                 },
                                 "sel": {
                                     "selKindIndex": 1,
                                     "selCard": false,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": -1,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": -1,
                                     "neighbor": {
                                         "leftUp": true,
                                         "up": true,
@@ -1595,21 +1328,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "id": 61,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 62,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 63,
-                "random": false,
-                "card": []
             },
             {
                 "id": 64,
@@ -1639,11 +1357,11 @@
                                         }
                                     },
                                     "selectType": "None",
-                                    "number": 0,
+                                    "numberId": -1,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -1652,16 +1370,16 @@
                                     "element": "数字",
                                     "kindSelIndex": 0,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": 0,
                                     "elemValue": ""
                                 },
                                 "sel": {
                                     "selKindIndex": 0,
                                     "selCard": false,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": -1,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": -1,
                                     "neighbor": {
                                         "leftUp": false,
                                         "up": false,
@@ -1706,11 +1424,11 @@
                                         }
                                     },
                                     "selectType": "None",
-                                    "number": 0,
+                                    "numberId": -1,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -1719,16 +1437,16 @@
                                     "element": "マーク",
                                     "kindSelIndex": -1,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": -1,
                                     "elemValue": "クラブ"
                                 },
                                 "sel": {
                                     "selKindIndex": 3,
                                     "selCard": true,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": -1,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": -1,
                                     "neighbor": {
                                         "leftUp": false,
                                         "up": false,
@@ -1767,11 +1485,11 @@
                                         }
                                     },
                                     "selectType": "None",
-                                    "number": 0,
+                                    "numberId": -1,
                                     "sequence": {
                                         "dir": "Top",
                                         "element": "",
-                                        "value": 1,
+                                        "valueId": -1,
                                         "addElems": []
                                     }
                                 },
@@ -1780,16 +1498,16 @@
                                     "element": "マーク",
                                     "kindSelIndex": -1,
                                     "condition": "Equal",
-                                    "value": 0,
+                                    "valueId": -1,
                                     "elemValue": "クラブ"
                                 },
                                 "sel": {
                                     "selKindIndex": 1,
                                     "selCard": true,
                                     "front": false,
-                                    "frontNumber": 0,
+                                    "frontNumberId": -1,
                                     "back": false,
-                                    "backNumber": 0,
+                                    "backNumberId": -1,
                                     "neighbor": {
                                         "leftUp": false,
                                         "up": false,
@@ -1805,24 +1523,77 @@
                         ]
                     }
                 ]
-            },
-            {
-                "id": 66,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 67,
-                "random": false,
-                "card": []
-            },
-            {
-                "id": 68,
-                "random": false,
-                "card": []
             }
         ],
-        "cardIndexNow": 69
+        "cardIndexNow": 69,
+        "values": [
+            {
+                "id": 1,
+                "typeIndex": 0,
+                "vars": [
+                    {
+                        "kind": "Value",
+                        "value": 0,
+                        "selectElem": "",
+                        "selectIndex": -1
+                    }
+                ],
+                "calcs": []
+            },
+            {
+                "id": 2,
+                "typeIndex": 0,
+                "vars": [
+                    {
+                        "kind": "Value",
+                        "value": 0,
+                        "selectElem": "",
+                        "selectIndex": -1
+                    }
+                ],
+                "calcs": []
+            },
+            {
+                "id": 9,
+                "typeIndex": 0,
+                "vars": [
+                    {
+                        "kind": "Value",
+                        "value": 1,
+                        "selectElem": "",
+                        "selectIndex": -1
+                    }
+                ],
+                "calcs": []
+            },
+            {
+                "id": 11,
+                "typeIndex": 0,
+                "vars": [
+                    {
+                        "kind": "Value",
+                        "value": 1,
+                        "selectElem": "",
+                        "selectIndex": -1
+                    }
+                ],
+                "calcs": []
+            },
+            {
+                "id": 13,
+                "typeIndex": 0,
+                "vars": [
+                    {
+                        "kind": "Value",
+                        "value": 1,
+                        "selectElem": "",
+                        "selectIndex": -1
+                    }
+                ],
+                "calcs": []
+            }
+        ],
+        "valueIndexNow": 22
     },
     "size": 12,
     "cardInfo": {
