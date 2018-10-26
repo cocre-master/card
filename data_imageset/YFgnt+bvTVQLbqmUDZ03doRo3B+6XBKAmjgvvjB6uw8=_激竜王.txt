@@ -1,0 +1,23 @@
+{
+    "parent": "",
+    "cards": [
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_spade_13.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_spade_12.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_spade_11.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_club_11.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_club_12.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_club_13.png"
+        }
+    ]
+}
