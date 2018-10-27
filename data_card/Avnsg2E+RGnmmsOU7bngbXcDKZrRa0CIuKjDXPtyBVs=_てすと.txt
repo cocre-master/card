@@ -1,0 +1,18 @@
+{
+    "imageSet": "/card-master/data_imageset/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_あ.txt",
+    "elems": [
+        {
+            "name": "赤",
+            "kindStr": "Text"
+        },
+        {
+            "name": "コスト",
+            "kindStr": "Value"
+        },
+        {
+            "name": "テキスト",
+            "kindStr": "Text"
+        }
+    ],
+    "cards": []
+}
