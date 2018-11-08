@@ -1,0 +1,5 @@
+{
+    "imageSet": "/card-master/data_imageset/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_あ.txt",
+    "elems": [],
+    "cards": []
+}
