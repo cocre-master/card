@@ -1,0 +1,21 @@
+{
+    "imageSet": "/card-master/data_imageset/bYPv9JoTky6c8lUevju+Zv34mjEQ4dx90C2DjTrPLgQ=_JapariCard-01.txt",
+    "elems": [
+        {
+            "name": "マーク",
+            "kindStr": "Text"
+        }
+    ],
+    "cards": [
+        {
+            "image": "",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "あ",
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}
