@@ -1,4 +1,14 @@
 {
-    "parent": "/card-master/data_imageset/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_あ.txt",
-    "cards": []
+    "parent": "",
+    "cards": [
+        {
+            "name": "/card-master/image_front/m42yhLO+SrOB73NAbtJmTD928qpEDtisHQQhsy6TcyQ=_無題72.png"
+        },
+        {
+            "name": "/card-master/image_front/m42yhLO+SrOB73NAbtJmTD928qpEDtisHQQhsy6TcyQ=_無題73-1.png"
+        },
+        {
+            "name": "/card-master/image_front/m42yhLO+SrOB73NAbtJmTD928qpEDtisHQQhsy6TcyQ=_無題73.png"
+        }
+    ]
 }
