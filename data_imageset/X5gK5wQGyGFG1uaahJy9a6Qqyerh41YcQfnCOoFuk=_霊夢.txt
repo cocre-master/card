@@ -1,0 +1,29 @@
+{
+    "parent": "/card-master/data_imageset/9CihFjI79JdQ7VLSKVyqIB7nwxMRcU3ETzWF2FknDK8=_カード表.txt",
+    "cards": [
+        {
+            "name": "/card-master/image_front/9CihFjI79JdQ7VLSKVyqIB7nwxMRcU3ETzWF2FknDK8=_カード裏2.png"
+        },
+        {
+            "name": "/card-master/image_front/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_無題25.png"
+        },
+        {
+            "name": "/card-master/image_front/9CihFjI79JdQ7VLSKVyqIB7nwxMRcU3ETzWF2FknDK8=_カード裏2.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c03.png"
+        },
+        {
+            "name": "/card-master/image_front/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_無題23.png"
+        },
+        {
+            "name": ""
+        },
+        {
+            "name": ""
+        },
+        {
+            "name": ""
+        }
+    ]
+}
