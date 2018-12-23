@@ -1,0 +1,149 @@
+{
+    "version": 1,
+    "revision": 5,
+    "signature": "2AHp0mszgqc6QHN79IGo+ht9t3yfR2OKOCCu1OMlZac=",
+    "cleared": false,
+    "card": "/card-master/data_card/7o4c9zqtB5WFYd+Z+YIwYGZkbJdDaLwr1R21azVUhk=_カード.txt",
+    "positions": [],
+    "symbols": [],
+    "rule": {
+        "images": [],
+        "successes": [
+            {
+                "conds": [
+                    {
+                        "kind": "Else",
+                        "kindSelIndex": -1,
+                        "cardId": 11,
+                        "symbol": "",
+                        "symbolCond": "Equal",
+                        "symbolValueId": 6,
+                        "area": {
+                            "area": "",
+                            "index": 0
+                        },
+                        "areaCond": "Equal",
+                        "areaValueId": 7
+                    }
+                ]
+            }
+        ],
+        "fails": [
+            {
+                "conds": [
+                    {
+                        "kind": "Else",
+                        "kindSelIndex": -1,
+                        "cardId": 12,
+                        "symbol": "",
+                        "symbolCond": "Equal",
+                        "symbolValueId": -1,
+                        "area": {
+                            "area": "",
+                            "index": 0
+                        },
+                        "areaCond": "Equal",
+                        "areaValueId": -1
+                    }
+                ]
+            }
+        ],
+        "startId": 0,
+        "selectId": 1,
+        "items": [
+            {
+                "id": 0,
+                "items": [
+                    {
+                        "kind": "Flip",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 0,
+                        "selMax": false,
+                        "selAny": false,
+                        "selFlip": false,
+                        "selCardId": 6,
+                        "cardRandom": false,
+                        "cardId": 4,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "",
+                        "symbolType": "Fix",
+                        "symbolValueId": 1,
+                        "flip": "Front",
+                        "flipCardId": 5,
+                        "waitTime": 5,
+                        "childId": 4
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "items": [
+                    {
+                        "kind": "Flip",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 2,
+                        "selMax": false,
+                        "selAny": false,
+                        "selFlip": false,
+                        "selCardId": 9,
+                        "cardRandom": false,
+                        "cardId": 7,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "",
+                        "symbolType": "Fix",
+                        "symbolValueId": 3,
+                        "flip": "Front",
+                        "flipCardId": 8,
+                        "waitTime": 5,
+                        "childId": 5
+                    }
+                ]
+            }
+        ],
+        "itemIndexNow": 6,
+        "cards": [
+            {
+                "id": 5,
+                "random": false,
+                "card": [
+                    {
+                        "orders": [],
+                        "infos": []
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "random": false,
+                "card": [
+                    {
+                        "orders": [],
+                        "infos": []
+                    }
+                ]
+            }
+        ],
+        "cardIndexNow": 14,
+        "values": [],
+        "valueIndexNow": 8
+    },
+    "size": 13,
+    "cardInfo": {
+        "imageSet": "/card-master/data_imageset/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_あ.txt",
+        "elems": [
+            {
+                "name": "マーク",
+                "kindStr": "Text"
+            }
+        ],
+        "cards": []
+    }
+}
