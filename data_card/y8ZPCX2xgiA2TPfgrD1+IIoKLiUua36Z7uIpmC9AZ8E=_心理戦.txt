@@ -46,7 +46,7 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "text": "",
+                    "text": "ためる",
                     "value": 0
                 },
                 {
@@ -61,7 +61,7 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "text": "",
+                    "text": "上段攻撃",
                     "value": 0
                 },
                 {
@@ -76,7 +76,7 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "text": "",
+                    "text": "下段攻撃",
                     "value": 0
                 },
                 {
@@ -151,7 +151,7 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "text": "",
+                    "text": "カウンター",
                     "value": 0
                 },
                 {
@@ -211,7 +211,7 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "text": "",
+                    "text": "必殺技",
                     "value": 0
                 },
                 {
@@ -256,7 +256,7 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "text": "",
+                    "text": "しゃがむ",
                     "value": 0
                 },
                 {
@@ -271,7 +271,7 @@
             "elems": [
                 {
                     "element": "マーク",
-                    "text": "",
+                    "text": "ジャンプ",
                     "value": 0
                 },
                 {
@@ -592,7 +592,7 @@
                 {
                     "element": "数字",
                     "text": "",
-                    "value": 2
+                    "value": 0
                 }
             ]
         },
