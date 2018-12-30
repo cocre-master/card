@@ -1,0 +1,121 @@
+{
+    "imageSet": "/card-master/data_imageset/1fD55haEbvDSxNrnWxSVY72qEpmfZEW+axN4aHMhjhI=_じーさんぬき.txt",
+    "elems": [
+        {
+            "name": "マーク",
+            "kindStr": "Text"
+        }
+    ],
+    "cards": [
+        {
+            "image": "/card-master/image_front/1fD55haEbvDSxNrnWxSVY72qEpmfZEW+axN4aHMhjhI=_無題16.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "じーさん",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/1fD55haEbvDSxNrnWxSVY72qEpmfZEW+axN4aHMhjhI=_無題13.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "瀬田宗次郎？",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/1fD55haEbvDSxNrnWxSVY72qEpmfZEW+axN4aHMhjhI=_無題13.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "瀬田宗次郎？",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/1fD55haEbvDSxNrnWxSVY72qEpmfZEW+axN4aHMhjhI=_無題14.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "フクロウ",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/1fD55haEbvDSxNrnWxSVY72qEpmfZEW+axN4aHMhjhI=_無題14.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "フクロウ",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/1fD55haEbvDSxNrnWxSVY72qEpmfZEW+axN4aHMhjhI=_無題15.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "山猫",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/1fD55haEbvDSxNrnWxSVY72qEpmfZEW+axN4aHMhjhI=_無題15.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "山猫",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/1fD55haEbvDSxNrnWxSVY72qEpmfZEW+axN4aHMhjhI=_無題17.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "モーモン",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/1fD55haEbvDSxNrnWxSVY72qEpmfZEW+axN4aHMhjhI=_無題17.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "モーモン",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/1fD55haEbvDSxNrnWxSVY72qEpmfZEW+axN4aHMhjhI=_無題4.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ゴジータ4",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/1fD55haEbvDSxNrnWxSVY72qEpmfZEW+axN4aHMhjhI=_無題4.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ゴジータ4",
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}
