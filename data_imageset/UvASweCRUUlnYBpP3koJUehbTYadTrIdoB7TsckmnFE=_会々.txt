@@ -1,0 +1,8 @@
+{
+    "parent": "",
+    "cards": [
+        {
+            "name": "/card-master/image_front/hSHD0dGm2N9bo1vpyRm5DNh6a4yJqIZ0K+j2fDmBniM=_photo1539402012698_crop_200x300.png"
+        }
+    ]
+}
