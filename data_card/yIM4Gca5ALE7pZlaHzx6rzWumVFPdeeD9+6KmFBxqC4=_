@@ -1,0 +1,71 @@
+{
+    "imageSet": "/card-master/data_imageset/YFgnt+bvTVQLbqmUDZ03doRo3B+6XBKAmjgvvjB6uw8=_激竜王.txt",
+    "elems": [
+        {
+            "name": "マーク",
+            "kindStr": "Text"
+        }
+    ],
+    "cards": [
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_spade_13.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "10",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_spade_12.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "10",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_spade_11.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "10",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_club_11.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "10",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_club_12.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "10",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_club_13.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "1",
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}
