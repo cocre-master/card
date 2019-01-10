@@ -1,0 +1,71 @@
+{
+    "imageSet": "/card-master/data_imageset/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_いえ.txt",
+    "elems": [
+        {
+            "name": "",
+            "kindStr": "Value"
+        }
+    ],
+    "cards": [
+        {
+            "image": "/card-master/image_front/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_無題23.png",
+            "elems": [
+                {
+                    "element": "",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_無題24.png",
+            "elems": [
+                {
+                    "element": "",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_無題25.png",
+            "elems": [
+                {
+                    "element": "",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_無題26.png",
+            "elems": [
+                {
+                    "element": "",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_無題27.png",
+            "elems": [
+                {
+                    "element": "",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_無題22.png",
+            "elems": [
+                {
+                    "element": "",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}
