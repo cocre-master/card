@@ -1,4 +1,161 @@
 {
-    "parent": "/card-master/data_imageset/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_あ.txt",
-    "cards": []
+    "parent": "",
+    "cards": [
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c01.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c02.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c03.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c04.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c05.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c06.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c07.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c08.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c09.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c10.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c11.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c12.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c13.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d01.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d02.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d03.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d04.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d05.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d06.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d07.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d08.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d09.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d10.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d11.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d12.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d13.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h01.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h02.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h03.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h04.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h05.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h06.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h07.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h08.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h09.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h10.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h11.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h12.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h13.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s01.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s02.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s03.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s04.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s05.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s06.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s07.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s08.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s09.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s10.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s11.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s12.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s13.png"
+        }
+    ]
 }
