@@ -16,7 +16,7 @@
             "elems": [
                 {
                     "element": "",
-                    "text": "",
+                    "text": "連なる月",
                     "value": 0
                 },
                 {
