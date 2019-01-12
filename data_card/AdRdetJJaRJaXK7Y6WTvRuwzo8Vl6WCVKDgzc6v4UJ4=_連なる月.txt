@@ -4,6 +4,10 @@
         {
             "name": "",
             "kindStr": "Text"
+        },
+        {
+            "name": "アイテム",
+            "kindStr": "Text"
         }
     ],
     "cards": [
@@ -12,6 +16,11 @@
             "elems": [
                 {
                     "element": "",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "アイテム",
                     "text": "",
                     "value": 0
                 }
