@@ -1,0 +1,37 @@
+{
+    "version": 1,
+    "revision": 3,
+    "signature": "RbO1QYtRNoqdGKIuL+5HHk85vdk74A3zvXGdbE0xSkc=",
+    "cleared": false,
+    "card": "/card-master/data_card/7o4c9zqtB5WFYd+Z+YIwYGZkbJdDaLwr1R21azVUhk=_カード.txt",
+    "positions": [],
+    "symbols": [],
+    "rule": {
+        "images": [],
+        "successes": [
+            {
+                "conds": []
+            }
+        ],
+        "fails": [],
+        "startId": 0,
+        "selectId": 1,
+        "items": [],
+        "itemIndexNow": 9,
+        "cards": [],
+        "cardIndexNow": 16,
+        "values": [],
+        "valueIndexNow": 4
+    },
+    "size": 10,
+    "cardInfo": {
+        "imageSet": "/card-master/data_imageset/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_あ.txt",
+        "elems": [
+            {
+                "name": "マーク",
+                "kindStr": "Text"
+            }
+        ],
+        "cards": []
+    }
+}
