@@ -1,10 +1,39 @@
 {
     "imageSet": "/card-master/data_imageset/bYPv9JoTky6c8lUevju+Zv34mjEQ4dx90C2DjTrPLgQ=_JapariCard-01.txt",
-    "elems": [],
+    "elems": [
+        {
+            "name": "攻撃",
+            "kindStr": "Value"
+        },
+        {
+            "name": "体力",
+            "kindStr": "Value"
+        },
+        {
+            "name": "属性",
+            "kindStr": "Text"
+        }
+    ],
     "cards": [
         {
             "image": "",
-            "elems": []
+            "elems": [
+                {
+                    "element": "攻撃",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "体力",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "属性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
         }
     ]
 }
