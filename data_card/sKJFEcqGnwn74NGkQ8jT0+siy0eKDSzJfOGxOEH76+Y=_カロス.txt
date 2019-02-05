@@ -1,0 +1,225 @@
+{
+    "imageSet": "/card-master/data_imageset/sKJFEcqGnwn74NGkQ8jT0+siy0eKDSzJfOGxOEH76+Y=_カロス.txt",
+    "elems": [
+        {
+            "name": "数値",
+            "kindStr": "Value"
+        },
+        {
+            "name": "特性",
+            "kindStr": "Text"
+        }
+    ],
+    "cards": [
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h01.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 1
+                },
+                {
+                    "element": "特性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h02.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 2
+                },
+                {
+                    "element": "特性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h03.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 3
+                },
+                {
+                    "element": "特性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h04.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 4
+                },
+                {
+                    "element": "特性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h05.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 5
+                },
+                {
+                    "element": "特性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h06.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 6
+                },
+                {
+                    "element": "特性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h07.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 7
+                },
+                {
+                    "element": "特性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h08.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 8
+                },
+                {
+                    "element": "特性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h09.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 9
+                },
+                {
+                    "element": "特性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h10.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 10
+                },
+                {
+                    "element": "特性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h11.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 11
+                },
+                {
+                    "element": "特性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h12.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 12
+                },
+                {
+                    "element": "特性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h13.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 13
+                },
+                {
+                    "element": "特性",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_x01.png",
+            "elems": [
+                {
+                    "element": "数値",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "特性",
+                    "text": "7以上特攻",
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}
