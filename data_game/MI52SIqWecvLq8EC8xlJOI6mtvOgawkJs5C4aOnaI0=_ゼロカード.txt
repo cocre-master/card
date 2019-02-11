@@ -1,0 +1,345 @@
+{
+    "version": 1,
+    "revision": 13,
+    "signature": "R7bMQ82FYnG2ZDr8FY9Lr6e7+xMnDD5F9WOqEujl6N0=",
+    "cleared": false,
+    "card": "/card-master/data_card/+kSQpgvNZopFzXpjNBSuid5iF0ih39UfYCcmDjkEoI=_カナリア.txt",
+    "positions": [
+        {
+            "name": "山札",
+            "x": 360,
+            "y": -320,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 0,
+            "height": 40,
+            "max": 40
+        },
+        {
+            "name": "捨札",
+            "x": 360,
+            "y": -480,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 0,
+            "height": 40,
+            "max": 40
+        },
+        {
+            "name": "場札",
+            "x": 0,
+            "y": -140,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 5,
+            "height": 0,
+            "max": 5
+        },
+        {
+            "name": "組札",
+            "x": -380,
+            "y": -320,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 0,
+            "height": 10,
+            "max": 10
+        },
+        {
+            "name": "手札",
+            "x": 0,
+            "y": -520,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 7,
+            "height": 0,
+            "max": 7
+        },
+        {
+            "name": "手札",
+            "x": -380,
+            "y": -480,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 1,
+            "height": 0,
+            "max": 1
+        }
+    ],
+    "symbols": [],
+    "rule": {
+        "images": [],
+        "successes": [
+            {
+                "conds": [
+                    {
+                        "kind": "Place",
+                        "kindSelIndex": -1,
+                        "cardId": 5,
+                        "symbol": "",
+                        "symbolCond": "Equal",
+                        "symbolValueId": 25,
+                        "area": {
+                            "area": "山札",
+                            "index": 0
+                        },
+                        "areaCond": "LessEqual",
+                        "areaValueId": 24
+                    }
+                ]
+            }
+        ],
+        "fails": [
+            {
+                "conds": [
+                    {
+                        "kind": "Place",
+                        "kindSelIndex": -1,
+                        "cardId": 2,
+                        "symbol": "",
+                        "symbolCond": "Equal",
+                        "symbolValueId": -1,
+                        "area": {
+                            "area": "山札",
+                            "index": 0
+                        },
+                        "areaCond": "LessEqual",
+                        "areaValueId": 2
+                    },
+                    {
+                        "kind": "Place",
+                        "kindSelIndex": -1,
+                        "cardId": 3,
+                        "symbol": "",
+                        "symbolCond": "Equal",
+                        "symbolValueId": -1,
+                        "area": {
+                            "area": "手札",
+                            "index": -1
+                        },
+                        "areaCond": "LessEqual",
+                        "areaValueId": 5
+                    }
+                ]
+            }
+        ],
+        "startId": 0,
+        "selectId": 1,
+        "items": [
+            {
+                "id": 0,
+                "items": [
+                    {
+                        "kind": "Card",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 20,
+                        "selMax": false,
+                        "selAny": false,
+                        "selFlip": false,
+                        "selCardId": 14,
+                        "cardRandom": false,
+                        "cardId": 12,
+                        "places": {
+                            "places": [
+                                {
+                                    "kind": "Area",
+                                    "area": {
+                                        "area": "山札",
+                                        "index": 0
+                                    },
+                                    "areaPosition": "Top",
+                                    "cardId": 17,
+                                    "cardPosition": "Front"
+                                }
+                            ]
+                        },
+                        "symbol": "",
+                        "symbolType": "Fix",
+                        "symbolValueId": 21,
+                        "flip": "Front",
+                        "flipCardId": 13,
+                        "waitTime": 5,
+                        "childId": 4
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "items": [
+                    {
+                        "kind": "Card",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 10,
+                        "selMax": false,
+                        "selAny": false,
+                        "selFlip": false,
+                        "selCardId": 9,
+                        "cardRandom": false,
+                        "cardId": 7,
+                        "places": {
+                            "places": [
+                                {
+                                    "kind": "Area",
+                                    "area": {
+                                        "area": "手札",
+                                        "index": -1
+                                    },
+                                    "areaPosition": "Random",
+                                    "cardId": 15,
+                                    "cardPosition": "Front"
+                                }
+                            ]
+                        },
+                        "symbol": "",
+                        "symbolType": "Fix",
+                        "symbolValueId": 11,
+                        "flip": "Front",
+                        "flipCardId": 8,
+                        "waitTime": 5,
+                        "childId": 3
+                    }
+                ]
+            }
+        ],
+        "itemIndexNow": 5,
+        "cards": [
+            {
+                "id": 7,
+                "random": false,
+                "card": [
+                    {
+                        "orders": [
+                            {
+                                "kind": "Area",
+                                "area": {
+                                    "area": "山札",
+                                    "index": 0
+                                }
+                            }
+                        ],
+                        "infos": [
+                            {
+                                "kind": "Area",
+                                "area": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "cond": "None"
+                                },
+                                "position": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "selectType": "None",
+                                    "numberId": -1,
+                                    "sequence": {
+                                        "dir": "Top",
+                                        "element": "",
+                                        "valueId": -1,
+                                        "addElems": []
+                                    }
+                                },
+                                "elem": {
+                                    "kind": "Element",
+                                    "element": "",
+                                    "kindSelIndex": -1,
+                                    "condition": "Equal",
+                                    "valueId": -1,
+                                    "elemValue": ""
+                                },
+                                "sel": {
+                                    "selKindIndex": 0,
+                                    "selCard": false,
+                                    "front": false,
+                                    "frontNumberId": -1,
+                                    "back": false,
+                                    "backNumberId": -1,
+                                    "neighbor": {
+                                        "leftUp": false,
+                                        "up": false,
+                                        "rightUp": false,
+                                        "left": false,
+                                        "right": false,
+                                        "leftDown": false,
+                                        "down": false,
+                                        "rightDown": false
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "random": false,
+                "card": [
+                    {
+                        "orders": [],
+                        "infos": []
+                    }
+                ]
+            }
+        ],
+        "cardIndexNow": 18,
+        "values": [
+            {
+                "id": 24,
+                "typeIndex": 0,
+                "vars": [
+                    {
+                        "kind": "Value",
+                        "value": 40,
+                        "selectElem": "",
+                        "selectIndex": -1
+                    }
+                ],
+                "calcs": []
+            }
+        ],
+        "valueIndexNow": 26
+    },
+    "size": 10,
+    "cardInfo": {
+        "imageSet": "/card-master/data_imageset/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_あ.txt",
+        "elems": [
+            {
+                "name": "マーク",
+                "kindStr": "Text"
+            },
+            {
+                "name": "数字",
+                "kindStr": "Value"
+            },
+            {
+                "name": "赤",
+                "kindStr": "Text"
+            }
+        ],
+        "cards": []
+    }
+}
