@@ -1,0 +1,472 @@
+{
+    "version": 1,
+    "revision": 7,
+    "signature": "VzgUmSGYpyuOIMLhQ8sieF/66/trsvhiROKBt+slGrM=",
+    "cleared": false,
+    "card": "/card-master/data_card/+kSQpgvNZopFzXpjNBSuid5iF0ih39UfYCcmDjkEoI=_カナリア.txt",
+    "positions": [
+        {
+            "name": "最優先",
+            "x": -360,
+            "y": 580,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 500,
+            "height": 500,
+            "max": 1000
+        },
+        {
+            "name": "最優後",
+            "x": 360,
+            "y": -580,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 500,
+            "height": 500,
+            "max": 1000
+        },
+        {
+            "name": "エネルギーソード",
+            "x": 0,
+            "y": -20,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 1000,
+            "height": 1000,
+            "max": 100000
+        },
+        {
+            "name": "山札l",
+            "x": -260,
+            "y": 0,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 26,
+            "height": 23,
+            "max": 54
+        },
+        {
+            "name": "組札",
+            "x": -440,
+            "y": -680,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": false,
+            "autoAlign": false,
+            "width": 9,
+            "height": 3,
+            "max": 12
+        },
+        {
+            "name": "組札",
+            "x": -20,
+            "y": -340,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 0,
+            "height": 0,
+            "max": 0
+        },
+        {
+            "name": "手札",
+            "x": 160,
+            "y": -320,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": false,
+            "width": 1,
+            "height": 1,
+            "max": 1
+        },
+        {
+            "name": "手札",
+            "x": 260,
+            "y": -200,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 1,
+            "height": 1,
+            "max": 2
+        },
+        {
+            "name": "手札",
+            "x": 260,
+            "y": -20,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 1,
+            "height": 1,
+            "max": 2
+        },
+        {
+            "name": "手札",
+            "x": 260,
+            "y": 100,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 1,
+            "height": 1848481,
+            "max": 0
+        },
+        {
+            "name": "手札",
+            "x": 200,
+            "y": 240,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 24,
+            "height": 18,
+            "max": 0
+        },
+        {
+            "name": "手札",
+            "x": -20,
+            "y": 320,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 53,
+            "height": 15,
+            "max": 45
+        },
+        {
+            "name": "手札",
+            "x": -220,
+            "y": 220,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 69,
+            "height": 45,
+            "max": 12
+        },
+        {
+            "name": "手札",
+            "x": -320,
+            "y": -180,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": false,
+            "width": 46,
+            "height": 28,
+            "max": 15
+        },
+        {
+            "name": "手札",
+            "x": -220,
+            "y": -380,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 15,
+            "height": 48,
+            "max": 54
+        }
+    ],
+    "symbols": [
+        {
+            "name": "レポーラ",
+            "image": "/card-master/image_obj/1fD55haEbvDSxNrnWxSVY72qEpmfZEW+axN4aHMhjhI=_無題10-1.png",
+            "x": -400,
+            "y": 0,
+            "dx": 0,
+            "dy": 0,
+            "size": 10
+        }
+    ],
+    "rule": {
+        "images": [],
+        "successes": [
+            {
+                "conds": [
+                    {
+                        "kind": "Else",
+                        "kindSelIndex": -1,
+                        "cardId": 11,
+                        "symbol": "レポーラ",
+                        "symbolCond": "Equal",
+                        "symbolValueId": -1,
+                        "area": {
+                            "area": "エネルギーソード",
+                            "index": 0
+                        },
+                        "areaCond": "LessEqual",
+                        "areaValueId": 8
+                    }
+                ]
+            }
+        ],
+        "fails": [
+            {
+                "conds": [
+                    {
+                        "kind": "Place",
+                        "kindSelIndex": -1,
+                        "cardId": 12,
+                        "symbol": "レポーラ",
+                        "symbolCond": "Equal",
+                        "symbolValueId": 12,
+                        "area": {
+                            "area": "最優後",
+                            "index": 0
+                        },
+                        "areaCond": "GreaterEqual",
+                        "areaValueId": 11
+                    },
+                    {
+                        "kind": "Symbol",
+                        "kindSelIndex": -1,
+                        "cardId": 13,
+                        "symbol": "レポーラ",
+                        "symbolCond": "Equal",
+                        "symbolValueId": 16,
+                        "area": {
+                            "area": "最優先",
+                            "index": 0
+                        },
+                        "areaCond": "Equal",
+                        "areaValueId": 15
+                    }
+                ]
+            }
+        ],
+        "startId": 0,
+        "selectId": 1,
+        "items": [
+            {
+                "id": 0,
+                "items": [
+                    {
+                        "kind": "Card",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 0,
+                        "selMax": false,
+                        "selAny": false,
+                        "selFlip": false,
+                        "selCardId": 2,
+                        "cardRandom": false,
+                        "cardId": 0,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "レポーラ",
+                        "symbolType": "Fix",
+                        "symbolValueId": 1,
+                        "flip": "Front",
+                        "flipCardId": 1,
+                        "waitTime": 5,
+                        "childId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "items": [
+                    {
+                        "kind": "Card",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 4,
+                        "selMax": false,
+                        "selAny": false,
+                        "selFlip": false,
+                        "selCardId": 9,
+                        "cardRandom": true,
+                        "cardId": 7,
+                        "places": {
+                            "places": [
+                                {
+                                    "kind": "Card",
+                                    "area": {
+                                        "area": "最優先",
+                                        "index": 0
+                                    },
+                                    "areaPosition": "Top",
+                                    "cardId": 10,
+                                    "cardPosition": "Front"
+                                }
+                            ]
+                        },
+                        "symbol": "レポーラ",
+                        "symbolType": "Fix",
+                        "symbolValueId": 5,
+                        "flip": "Front",
+                        "flipCardId": 8,
+                        "waitTime": 5,
+                        "childId": 4
+                    }
+                ]
+            }
+        ],
+        "itemIndexNow": 5,
+        "cards": [
+            {
+                "id": 0,
+                "random": false,
+                "card": [
+                    {
+                        "orders": [],
+                        "infos": []
+                    },
+                    {
+                        "orders": [],
+                        "infos": []
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "random": false,
+                "card": [
+                    {
+                        "orders": [
+                            {
+                                "kind": "Random",
+                                "area": {
+                                    "area": "",
+                                    "index": 0
+                                }
+                            }
+                        ],
+                        "infos": [
+                            {
+                                "kind": "Area",
+                                "area": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "cond": "None"
+                                },
+                                "position": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "selectType": "None",
+                                    "numberId": -1,
+                                    "sequence": {
+                                        "dir": "Top",
+                                        "element": "",
+                                        "valueId": -1,
+                                        "addElems": []
+                                    }
+                                },
+                                "elem": {
+                                    "kind": "Element",
+                                    "element": "",
+                                    "kindSelIndex": -1,
+                                    "condition": "Equal",
+                                    "valueId": -1,
+                                    "elemValue": ""
+                                },
+                                "sel": {
+                                    "selKindIndex": 0,
+                                    "selCard": false,
+                                    "front": false,
+                                    "frontNumberId": -1,
+                                    "back": false,
+                                    "backNumberId": -1,
+                                    "neighbor": {
+                                        "leftUp": false,
+                                        "up": false,
+                                        "rightUp": false,
+                                        "left": false,
+                                        "right": false,
+                                        "leftDown": false,
+                                        "down": false,
+                                        "rightDown": false
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "random": false,
+                "card": [
+                    {
+                        "orders": [],
+                        "infos": []
+                    }
+                ]
+            }
+        ],
+        "cardIndexNow": 14,
+        "values": [
+            {
+                "id": 11,
+                "typeIndex": 0,
+                "vars": [
+                    {
+                        "kind": "Value",
+                        "value": 58,
+                        "selectElem": "",
+                        "selectIndex": -1
+                    }
+                ],
+                "calcs": [
+                    {
+                        "leftSideIndex": 0,
+                        "rightSideIndex": 0,
+                        "op": "Minus"
+                    }
+                ]
+            }
+        ],
+        "valueIndexNow": 17
+    },
+    "size": 10,
+    "cardInfo": {
+        "imageSet": "/card-master/data_imageset/39uFn7qauI7lgLiQhK1e76YsLECg9Z5LfQ4FOQNdZQ=_あ.txt",
+        "elems": [
+            {
+                "name": "マーク",
+                "kindStr": "Text"
+            },
+            {
+                "name": "数字",
+                "kindStr": "Value"
+            },
+            {
+                "name": "赤",
+                "kindStr": "Text"
+            }
+        ],
+        "cards": []
+    }
+}
