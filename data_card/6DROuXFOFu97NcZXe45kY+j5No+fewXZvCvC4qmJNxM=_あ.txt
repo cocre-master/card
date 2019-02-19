@@ -1,0 +1,105 @@
+{
+    "imageSet": "/card-master/data_imageset/YFgnt+bvTVQLbqmUDZ03doRo3B+6XBKAmjgvvjB6uw8=_激竜王.txt",
+    "elems": [
+        {
+            "name": "攻撃力",
+            "kindStr": "Value"
+        },
+        {
+            "name": "守備力",
+            "kindStr": "Value"
+        }
+    ],
+    "cards": [
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_spade_13.png",
+            "elems": [
+                {
+                    "element": "攻撃力",
+                    "text": "",
+                    "value": 1800
+                },
+                {
+                    "element": "守備力",
+                    "text": "",
+                    "value": 1600
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_spade_12.png",
+            "elems": [
+                {
+                    "element": "攻撃力",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "守備力",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_spade_11.png",
+            "elems": [
+                {
+                    "element": "攻撃力",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "守備力",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_club_11.png",
+            "elems": [
+                {
+                    "element": "攻撃力",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "守備力",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_club_12.png",
+            "elems": [
+                {
+                    "element": "攻撃力",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "守備力",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_card_club_13.png",
+            "elems": [
+                {
+                    "element": "攻撃力",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "守備力",
+                    "text": "",
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}
