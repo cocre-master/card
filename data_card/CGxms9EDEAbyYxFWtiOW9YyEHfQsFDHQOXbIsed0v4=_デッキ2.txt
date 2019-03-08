@@ -1,0 +1,90 @@
+{
+    "imageSet": "/card-master/data_imageset/CGxms9EDEAbyYxFWtiOW9YyEHfQsFDHQOXbIsed0v4=_エキドナ.txt",
+    "elems": [
+        {
+            "name": "マーク",
+            "kindStr": "Text"
+        },
+        {
+            "name": "数字",
+            "kindStr": "Value"
+        }
+    ],
+    "cards": [
+        {
+            "image": "/card-master/image_front/CGxms9EDEAbyYxFWtiOW9YyEHfQsFDHQOXbIsed0v4=_51hxvMsBgdL-200x300.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/hSHD0dGm2N9bo1vpyRm5DNh6a4yJqIZ0K+j2fDmBniM=_photo1539400760720_crop_200x300.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/hSHD0dGm2N9bo1vpyRm5DNh6a4yJqIZ0K+j2fDmBniM=_photo1539304612079_crop_200x300.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/CGxms9EDEAbyYxFWtiOW9YyEHfQsFDHQOXbIsed0v4=_Screenshot_20190220-232707_crop_120x180.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/9CihFjI79JdQ7VLSKVyqIB7nwxMRcU3ETzWF2FknDK8=_カード裏2.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 5
+                }
+            ]
+        }
+    ]
+}
