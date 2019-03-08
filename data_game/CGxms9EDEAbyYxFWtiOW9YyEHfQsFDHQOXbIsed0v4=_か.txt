@@ -1,0 +1,793 @@
+{
+    "version": 1,
+    "revision": 112,
+    "signature": "SU+t6tdOle04EtURCF7b9uT01VYcbCes17zA4QATzqE=",
+    "cleared": false,
+    "card": "/card-master/data_card/CGxms9EDEAbyYxFWtiOW9YyEHfQsFDHQOXbIsed0v4=_デッキ2.txt",
+    "positions": [
+        {
+            "name": "場札",
+            "x": -300,
+            "y": -260,
+            "dx": 600,
+            "dy": -20,
+            "overlaid": false,
+            "autoAlign": false,
+            "width": 5,
+            "height": 0,
+            "max": 0
+        },
+        {
+            "name": "捨札",
+            "x": 280,
+            "y": 180,
+            "dx": 0,
+            "dy": 0,
+            "overlaid": true,
+            "autoAlign": true,
+            "width": 1,
+            "height": 1,
+            "max": 5
+        }
+    ],
+    "symbols": [],
+    "rule": {
+        "images": [],
+        "successes": [
+            {
+                "conds": [
+                    {
+                        "kind": "Place",
+                        "kindSelIndex": -1,
+                        "cardId": 79,
+                        "symbol": "クリボー",
+                        "symbolCond": "Equal",
+                        "symbolValueId": 313,
+                        "area": {
+                            "area": "捨札",
+                            "index": 0
+                        },
+                        "areaCond": "GreaterEqual",
+                        "areaValueId": 312
+                    }
+                ]
+            }
+        ],
+        "fails": [
+            {
+                "conds": [
+                    {
+                        "kind": "Place",
+                        "kindSelIndex": -1,
+                        "cardId": 80,
+                        "symbol": "クリボー",
+                        "symbolCond": "Equal",
+                        "symbolValueId": 317,
+                        "area": {
+                            "area": "場札",
+                            "index": 0
+                        },
+                        "areaCond": "LessEqual",
+                        "areaValueId": 316
+                    },
+                    {
+                        "kind": "Place",
+                        "kindSelIndex": -1,
+                        "cardId": 81,
+                        "symbol": "クリボー",
+                        "symbolCond": "Equal",
+                        "symbolValueId": 321,
+                        "area": {
+                            "area": "捨札",
+                            "index": 0
+                        },
+                        "areaCond": "LessEqual",
+                        "areaValueId": 320
+                    }
+                ]
+            }
+        ],
+        "startId": 0,
+        "selectId": 1,
+        "items": [
+            {
+                "id": 0,
+                "items": [
+                    {
+                        "kind": "Card",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 0,
+                        "selMax": false,
+                        "selAny": false,
+                        "selFlip": false,
+                        "selCardId": 2,
+                        "cardRandom": true,
+                        "cardId": 0,
+                        "places": {
+                            "places": [
+                                {
+                                    "kind": "Area",
+                                    "area": {
+                                        "area": "場札",
+                                        "index": -1
+                                    },
+                                    "areaPosition": "Top",
+                                    "cardId": 28,
+                                    "cardPosition": "Front"
+                                }
+                            ]
+                        },
+                        "symbol": "クリボー",
+                        "symbolType": "Fix",
+                        "symbolValueId": 1,
+                        "flip": "Front",
+                        "flipCardId": 1,
+                        "waitTime": 5,
+                        "childId": 2
+                    },
+                    {
+                        "kind": "Card",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 155,
+                        "selMax": false,
+                        "selAny": false,
+                        "selFlip": false,
+                        "selCardId": 25,
+                        "cardRandom": false,
+                        "cardId": 23,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "クリボー",
+                        "symbolType": "Fix",
+                        "symbolValueId": 156,
+                        "flip": "Front",
+                        "flipCardId": 24,
+                        "waitTime": 5,
+                        "childId": 7
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "items": [
+                    {
+                        "kind": "Flip",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 34,
+                        "selMax": false,
+                        "selAny": true,
+                        "selFlip": true,
+                        "selCardId": 7,
+                        "cardRandom": false,
+                        "cardId": 5,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "クリボー",
+                        "symbolType": "Fix",
+                        "symbolValueId": 35,
+                        "flip": "Back",
+                        "flipCardId": 6,
+                        "waitTime": 5,
+                        "childId": 3
+                    },
+                    {
+                        "kind": "Select",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 173,
+                        "selMax": false,
+                        "selAny": false,
+                        "selFlip": true,
+                        "selCardId": 31,
+                        "cardRandom": false,
+                        "cardId": 29,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "クリボー",
+                        "symbolType": "Fix",
+                        "symbolValueId": 174,
+                        "flip": "Front",
+                        "flipCardId": 30,
+                        "waitTime": 5,
+                        "childId": 8
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "items": [
+                    {
+                        "kind": "Condition",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 38,
+                        "selMax": false,
+                        "selAny": false,
+                        "selFlip": false,
+                        "selCardId": 13,
+                        "cardRandom": false,
+                        "cardId": 11,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "クリボー",
+                        "symbolType": "Fix",
+                        "symbolValueId": 39,
+                        "flip": "Front",
+                        "flipCardId": 12,
+                        "waitTime": 5,
+                        "childId": 5
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "items": [
+                    {
+                        "kind": "Card",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 54,
+                        "selMax": false,
+                        "selAny": false,
+                        "selFlip": false,
+                        "selCardId": 19,
+                        "cardRandom": false,
+                        "cardId": 17,
+                        "places": {
+                            "places": [
+                                {
+                                    "kind": "Area",
+                                    "area": {
+                                        "area": "捨札",
+                                        "index": 0
+                                    },
+                                    "areaPosition": "Top",
+                                    "cardId": 21,
+                                    "cardPosition": "Front"
+                                }
+                            ]
+                        },
+                        "symbol": "クリボー",
+                        "symbolType": "Fix",
+                        "symbolValueId": 55,
+                        "flip": "Front",
+                        "flipCardId": 18,
+                        "waitTime": 5,
+                        "childId": 6
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "items": [
+                    {
+                        "kind": "Card",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 183,
+                        "selMax": false,
+                        "selAny": false,
+                        "selFlip": false,
+                        "selCardId": 34,
+                        "cardRandom": false,
+                        "cardId": 32,
+                        "places": {
+                            "places": [
+                                {
+                                    "kind": "Area",
+                                    "area": {
+                                        "area": "捨札",
+                                        "index": 0
+                                    },
+                                    "areaPosition": "Top",
+                                    "cardId": 44,
+                                    "cardPosition": "Front"
+                                }
+                            ]
+                        },
+                        "symbol": "クリボー",
+                        "symbolType": "Fix",
+                        "symbolValueId": 184,
+                        "flip": "Front",
+                        "flipCardId": 33,
+                        "waitTime": 5,
+                        "childId": 9
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "items": [
+                    {
+                        "kind": "Card",
+                        "conds": {
+                            "conds": []
+                        },
+                        "selNumberId": 210,
+                        "selMax": false,
+                        "selAny": false,
+                        "selFlip": false,
+                        "selCardId": 42,
+                        "cardRandom": false,
+                        "cardId": 40,
+                        "places": {
+                            "places": []
+                        },
+                        "symbol": "クリボー",
+                        "symbolType": "Fix",
+                        "symbolValueId": 211,
+                        "flip": "Front",
+                        "flipCardId": 41,
+                        "waitTime": 5,
+                        "childId": 10
+                    }
+                ]
+            }
+        ],
+        "itemIndexNow": 21,
+        "cards": [
+            {
+                "id": 0,
+                "random": false,
+                "card": [
+                    {
+                        "orders": [],
+                        "infos": []
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "random": false,
+                "card": [
+                    {
+                        "orders": [],
+                        "infos": []
+                    }
+                ]
+            },
+            {
+                "id": 31,
+                "random": false,
+                "card": [
+                    {
+                        "orders": [],
+                        "infos": [
+                            {
+                                "kind": "Position",
+                                "area": {
+                                    "range": {
+                                        "kind": "Position",
+                                        "area": {
+                                            "area": "場札",
+                                            "index": 0
+                                        }
+                                    },
+                                    "cond": "None"
+                                },
+                                "position": {
+                                    "range": {
+                                        "kind": "Position",
+                                        "area": {
+                                            "area": "場札",
+                                            "index": 0
+                                        }
+                                    },
+                                    "selectType": "Top",
+                                    "numberId": 179,
+                                    "sequence": {
+                                        "dir": "Top",
+                                        "element": "",
+                                        "valueId": -1,
+                                        "addElems": []
+                                    }
+                                },
+                                "elem": {
+                                    "kind": "Element",
+                                    "element": "マーク",
+                                    "kindSelIndex": -1,
+                                    "condition": "Equal",
+                                    "valueId": 180,
+                                    "elemValue": "あ"
+                                },
+                                "sel": {
+                                    "selKindIndex": -1,
+                                    "selCard": false,
+                                    "front": false,
+                                    "frontNumberId": 181,
+                                    "back": false,
+                                    "backNumberId": 182,
+                                    "neighbor": {
+                                        "leftUp": false,
+                                        "up": false,
+                                        "rightUp": false,
+                                        "left": false,
+                                        "right": false,
+                                        "leftDown": false,
+                                        "down": false,
+                                        "rightDown": false
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "random": false,
+                "card": [
+                    {
+                        "orders": [],
+                        "infos": [
+                            {
+                                "kind": "Area",
+                                "area": {
+                                    "range": {
+                                        "kind": "Position",
+                                        "area": {
+                                            "area": "場札",
+                                            "index": 0
+                                        }
+                                    },
+                                    "cond": "None"
+                                },
+                                "position": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "selectType": "None",
+                                    "numberId": 232,
+                                    "sequence": {
+                                        "dir": "Top",
+                                        "element": "",
+                                        "valueId": -1,
+                                        "addElems": []
+                                    }
+                                },
+                                "elem": {
+                                    "kind": "Element",
+                                    "element": "マーク",
+                                    "kindSelIndex": -1,
+                                    "condition": "Equal",
+                                    "valueId": 233,
+                                    "elemValue": "あ"
+                                },
+                                "sel": {
+                                    "selKindIndex": -1,
+                                    "selCard": false,
+                                    "front": false,
+                                    "frontNumberId": 234,
+                                    "back": false,
+                                    "backNumberId": 235,
+                                    "neighbor": {
+                                        "leftUp": false,
+                                        "up": false,
+                                        "rightUp": false,
+                                        "left": false,
+                                        "right": false,
+                                        "leftDown": false,
+                                        "down": false,
+                                        "rightDown": false
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 32,
+                "random": false,
+                "card": [
+                    {
+                        "orders": [],
+                        "infos": [
+                            {
+                                "kind": "Element",
+                                "area": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "cond": "None"
+                                },
+                                "position": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "selectType": "None",
+                                    "numberId": 240,
+                                    "sequence": {
+                                        "dir": "Top",
+                                        "element": "",
+                                        "valueId": -1,
+                                        "addElems": []
+                                    }
+                                },
+                                "elem": {
+                                    "kind": "SelectElem",
+                                    "element": "数字",
+                                    "kindSelIndex": 0,
+                                    "condition": "GreaterEqual",
+                                    "valueId": 241,
+                                    "elemValue": ""
+                                },
+                                "sel": {
+                                    "selKindIndex": 0,
+                                    "selCard": false,
+                                    "front": false,
+                                    "frontNumberId": 242,
+                                    "back": false,
+                                    "backNumberId": 243,
+                                    "neighbor": {
+                                        "leftUp": false,
+                                        "up": false,
+                                        "rightUp": false,
+                                        "left": false,
+                                        "right": false,
+                                        "leftDown": false,
+                                        "down": false,
+                                        "rightDown": false
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 61,
+                "random": false,
+                "card": [
+                    {
+                        "orders": [],
+                        "infos": [
+                            {
+                                "kind": "Element",
+                                "area": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "cond": "None"
+                                },
+                                "position": {
+                                    "range": {
+                                        "kind": "All",
+                                        "area": {
+                                            "area": "",
+                                            "index": 0
+                                        }
+                                    },
+                                    "selectType": "None",
+                                    "numberId": 276,
+                                    "sequence": {
+                                        "dir": "Top",
+                                        "element": "",
+                                        "valueId": -1,
+                                        "addElems": []
+                                    }
+                                },
+                                "elem": {
+                                    "kind": "SelectElem",
+                                    "element": "数字",
+                                    "kindSelIndex": 0,
+                                    "condition": "Equal",
+                                    "valueId": 277,
+                                    "elemValue": ""
+                                },
+                                "sel": {
+                                    "selKindIndex": 0,
+                                    "selCard": false,
+                                    "front": false,
+                                    "frontNumberId": 278,
+                                    "back": false,
+                                    "backNumberId": 279,
+                                    "neighbor": {
+                                        "leftUp": false,
+                                        "up": false,
+                                        "rightUp": false,
+                                        "left": false,
+                                        "right": false,
+                                        "leftDown": false,
+                                        "down": false,
+                                        "rightDown": false
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "cardIndexNow": 86,
+        "values": [
+            {
+                "id": 34,
+                "typeIndex": 0,
+                "vars": [
+                    {
+                        "kind": "Value",
+                        "value": 1,
+                        "selectElem": "",
+                        "selectIndex": -1
+                    }
+                ],
+                "calcs": []
+            },
+            {
+                "id": 257,
+                "typeIndex": 0,
+                "vars": [
+                    {
+                        "kind": "Value",
+                        "value": 3,
+                        "selectElem": "",
+                        "selectIndex": -1
+                    }
+                ],
+                "calcs": []
+            },
+            {
+                "id": 312,
+                "typeIndex": 0,
+                "vars": [
+                    {
+                        "kind": "Value",
+                        "value": 3,
+                        "selectElem": "",
+                        "selectIndex": -1
+                    }
+                ],
+                "calcs": []
+            },
+            {
+                "id": 316,
+                "typeIndex": 0,
+                "vars": [
+                    {
+                        "kind": "Value",
+                        "value": 4,
+                        "selectElem": "",
+                        "selectIndex": -1
+                    }
+                ],
+                "calcs": []
+            },
+            {
+                "id": 320,
+                "typeIndex": 0,
+                "vars": [
+                    {
+                        "kind": "Value",
+                        "value": 2,
+                        "selectElem": "",
+                        "selectIndex": -1
+                    }
+                ],
+                "calcs": []
+            }
+        ],
+        "valueIndexNow": 322
+    },
+    "size": 13,
+    "cardInfo": {
+        "imageSet": "/card-master/data_imageset/CGxms9EDEAbyYxFWtiOW9YyEHfQsFDHQOXbIsed0v4=_エキドナ.txt",
+        "elems": [
+            {
+                "name": "マーク",
+                "kindStr": "Text"
+            },
+            {
+                "name": "数字",
+                "kindStr": "Value"
+            }
+        ],
+        "cards": [
+            {
+                "image": "/card-master/image_front/CGxms9EDEAbyYxFWtiOW9YyEHfQsFDHQOXbIsed0v4=_51hxvMsBgdL-200x300.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "あ",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 1
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/hSHD0dGm2N9bo1vpyRm5DNh6a4yJqIZ0K+j2fDmBniM=_photo1539400760720_crop_200x300.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "い",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 2
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/hSHD0dGm2N9bo1vpyRm5DNh6a4yJqIZ0K+j2fDmBniM=_photo1539304612079_crop_200x300.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "う",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 3
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/CGxms9EDEAbyYxFWtiOW9YyEHfQsFDHQOXbIsed0v4=_Screenshot_20190220-232707_crop_120x180.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "え",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 4
+                    }
+                ]
+            },
+            {
+                "image": "/card-master/image_front/9CihFjI79JdQ7VLSKVyqIB7nwxMRcU3ETzWF2FknDK8=_カード裏2.png",
+                "elems": [
+                    {
+                        "element": "マーク",
+                        "text": "お",
+                        "value": 0
+                    },
+                    {
+                        "element": "数字",
+                        "text": "",
+                        "value": 5
+                    }
+                ]
+            }
+        ]
+    }
+}
