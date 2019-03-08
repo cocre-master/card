@@ -9,6 +9,9 @@
         },
         {
             "name": "/card-master/image_front/hSHD0dGm2N9bo1vpyRm5DNh6a4yJqIZ0K+j2fDmBniM=_photo1539304612079_crop_200x300.png"
+        },
+        {
+            "name": "/card-master/image_front/CGxms9EDEAbyYxFWtiOW9YyEHfQsFDHQOXbIsed0v4=_Screenshot_20190220-232707_crop_120x180.png"
         }
     ]
 }
