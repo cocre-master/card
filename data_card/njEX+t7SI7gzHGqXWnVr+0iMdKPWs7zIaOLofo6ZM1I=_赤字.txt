@@ -8,6 +8,10 @@
         {
             "name": "あ",
             "kindStr": "Text"
+        },
+        {
+            "name": "あつこ",
+            "kindStr": "Value"
         }
     ],
     "cards": []
