@@ -1,0 +1,11 @@
+{
+    "parent": "/card-master/data_imageset/2eeVWfoPvgqCb42HnnCdCVkDSMvHZlXwTqCoLdULwFI=_トランプ.txt",
+    "cards": [
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c01.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c02.png"
+        }
+    ]
+}
