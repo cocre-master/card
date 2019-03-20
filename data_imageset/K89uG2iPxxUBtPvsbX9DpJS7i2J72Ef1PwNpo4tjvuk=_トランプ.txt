@@ -1,0 +1,26 @@
+{
+    "parent": "/card-master/data_imageset/Yp2gI7Btl0eG9r7XueBRPV0O7jutD2VpW4aEC4OrtUw=_ゲームする.txt",
+    "cards": [
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c01.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d01.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h01.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s01.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_x01.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_x02.png"
+        },
+        {
+            "name": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s13.png"
+        }
+    ]
+}
