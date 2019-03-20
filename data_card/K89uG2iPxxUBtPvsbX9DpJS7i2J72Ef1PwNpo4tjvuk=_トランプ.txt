@@ -1,0 +1,795 @@
+{
+    "imageSet": "/card-master/data_imageset/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_トランプ.txt",
+    "elems": [
+        {
+            "name": "マーク",
+            "kindStr": "Text"
+        },
+        {
+            "name": "数字",
+            "kindStr": "Value"
+        }
+    ],
+    "cards": [
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c01.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "クローバー",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c02.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "クローバー",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c03.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "クローバー",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c04.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "クローバー",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c05.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "クローバー",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 5
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c06.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "クローバー",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 6
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c07.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "クローバー",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 7
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c08.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "クローバー",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 8
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c09.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "クローバー",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 9
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c10.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "クローバー",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c11.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "クローバー",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 11
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c12.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "クローバー",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 12
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_c13.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "クローバー",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 13
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d01.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ダイヤ",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d02.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ダイヤ",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d03.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ダイヤ",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d04.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ダイヤ",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d05.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ダイヤ",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 5
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d06.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ダイヤ",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 6
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d07.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ダイヤ",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 7
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d08.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ダイヤ",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 8
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d09.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ダイヤ",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 9
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d10.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ダイヤ",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d11.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ダイヤ",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 11
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d12.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ダイヤ",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 12
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_d13.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ダイヤ",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 13
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h01.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ハート",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h02.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ハート",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h03.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ハート",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h04.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ハート",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h05.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ハート",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 5
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h06.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ハート",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 6
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h07.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ハート",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 7
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h08.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ハート",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 8
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h09.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ハート",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 9
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h10.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ハート",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h11.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ハート",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 11
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h12.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ハート",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 12
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_h13.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "ハート",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 13
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s01.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "スペード",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s02.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "スペード",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s03.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "スペード",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s04.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "スペード",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s05.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "スペード",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 5
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s06.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "スペード",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 6
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s07.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "スペード",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 7
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s08.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "スペード",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 8
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s09.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "スペード",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 9
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s10.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "スペード",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s11.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "スペード",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 11
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s12.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "スペード",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 12
+                }
+            ]
+        },
+        {
+            "image": "/card-master/image_front/RDbhIqnRFVXJNfQB8Dptc1IMsBcbblTIyob5ucjIOMs=_s13.png",
+            "elems": [
+                {
+                    "element": "マーク",
+                    "text": "スペード",
+                    "value": 0
+                },
+                {
+                    "element": "数字",
+                    "text": "",
+                    "value": 13
+                }
+            ]
+        }
+    ]
+}
