@@ -1,4 +1,8 @@
 {
-    "parent": "/card-master/data_imageset/RcCtjvzKIPe+V15Lzrks7cZeLexeFVls8ZnwT7GuAPU=_自分専用.txt",
-    "cards": []
+    "parent": "",
+    "cards": [
+        {
+            "name": "/card-master/image_front/CGxms9EDEAbyYxFWtiOW9YyEHfQsFDHQOXbIsed0v4=_Screenshot_20190220-232707_crop_120x180.png"
+        }
+    ]
 }
